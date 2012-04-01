@@ -1,0 +1,53 @@
+<!DOCTYPE html> 
+<html> 
+	<head> 
+	<title>earSmart Demo</title> 
+	<meta name="viewport" content="width=device-width, initial-scale=1"> 
+	<link rel="stylesheet" href="http://code.jquery.com/mobile/1.1.0-rc.1/jquery.mobile-1.1.0-rc.1.min.css" />
+	<script src="http://code.jquery.com/jquery-1.7.1.min.js"></script>
+	<script src="http://code.jquery.com/mobile/1.1.0-rc.1/jquery.mobile-1.1.0-rc.1.min.js"></script>
+</head> 
+<body> 
+
+<script>
+     $(document).ready(function(){
+       $("#update").click(function(event){
+    	   $.getJSON('http://localhost/sites/elgg/services/api/rest/json/?method=Event.postInfo&Id=73&event123=currentEvent:1.2.2.7.7.7.8.7.6.5.4', 
+    			   function(data){
+    		         alert("bebe");// our code to handle the data here
+    			   }
+    	   );	   //&e11=4&e12=3&h11=2&h12=3&e21=3&e22=3&h21=3&h22=3&e31=3&e32=3   http://localhost/sites/elgg/services/api/rest/xml/?method=Event.postInfo
+    	   
+         event.preventDefault();
+       });
+     });
+ </script>
+
+
+<div data-role="page">
+
+	<div data-role="header">
+		<h1>earSmart Demo</h1>
+		<a href="login.html" class="ui-btn-right">Login</a>
+	</div><!-- /header -->
+
+	<div data-role="content">	
+		<div data-role="fieldcontain" >
+			<fieldset data-role="controlgroup" data-mini="true">
+	
+				<ul data-role="listview" data-inset="true" data-filter="true">
+					<li><a href="#">Meet 1</a></li>
+					<li><a href="#">Meet 2</a></li>
+					<li><a href="#">Meet 3</a></li>
+					<li><a href="#">Meet 4</a></li>
+					<li><a href="#">Meet 5</a></li>
+				</ul>
+	
+			</fieldset>
+		</div>
+	</div>
+
+</div><!-- /page -->
+
+</body>
+</html>

@@ -1,0 +1,270 @@
+<!DOCTYPE html> 
+<html> 
+	<head> 
+	<title>earSmart Demo</title> 
+	<meta name="viewport" content="width=device-width, initial-scale=1"> 
+	<link rel="stylesheet" href="http://code.jquery.com/mobile/1.1.0-rc.1/jquery.mobile-1.1.0-rc.1.min.css" />
+	<script src="http://code.jquery.com/jquery-1.7.1.min.js"></script>
+	<script src="http://code.jquery.com/mobile/1.1.0-rc.1/jquery.mobile-1.1.0-rc.1.min.js"></script>
+</head> 
+<body> 
+
+<script>
+     $(document).ready(function(){
+       $("#event_type_update").click(function(event){
+
+
+    	   var	eventType =  $("#event_type").val();
+    	   var queryStr = 'http://localhost/sites/elgg/services/api/rest/json/?method=Event.postInfo_eventType&Id=73&eventType=' + eventType; 
+    	   $.getJSON( queryStr,
+    			   function(data){
+    		         alert(queryStr);// our code to handle the data here
+    			   }
+    	   );	   
+         event.preventDefault();
+       });
+       
+       $("#event1_update").click(function(event){
+      	   var e11Value = $("#e11").val();
+   	       var e12Value = $("#e12").val();
+      	   var h11Value = $("#h11").val();
+   	       var h12Value = $("#h12").val();
+    	   var queryStr = 'http://localhost/sites/elgg/services/api/rest/json/?method=Event.postInfo_event1&Id=73&event1=' 
+    			          + e11Value + "." + e12Value + "."+ h11Value + "." + h12Value;  
+    	   alert(queryStr);
+    	   $.getJSON(queryStr, 
+    			   function(data){
+    		         alert(queryStr);// our code to handle the data here
+    			   }
+    	   );	   
+         event.preventDefault();
+       });
+       
+       $("#event2_update").click(function(event){
+      	   var e21Value = $("#e21").val();
+   	       var e22Value = $("#e22").val();
+   	       var h21Value = $("#h21").val();
+	       var h22Value = $("#h22").val();  
+    	   var queryStr = 'http://localhost/sites/elgg/services/api/rest/json/?method=Event.postInfo_event2&Id=73&event2=' 
+    		               + e21Value + "." + e22Value + "."+ h21Value + "." + h22Value;  
+    	   alert(queryStr);
+    	   $.getJSON( queryStr,
+    			   function(data){
+    		         alert(queryStr);// our code to handle the data here
+    			   }
+    	   );	   
+         event.preventDefault();
+       });
+       
+       $("#event3_update").click(function(event){
+           var e31Value = $("#e31").val();
+   	       var e32Value = $("#e32").val();
+    	   var queryStr = 'http://localhost/sites/elgg/services/api/rest/json/?method=Event.postInfo_event3&Id=73&event3='
+    			          + e31Value + "." + e32Value;
+    	   $.getJSON(queryStr, 
+    			   function(data){
+    		         alert(queryStr);// our code to handle the data here
+    			   }
+    	   );	   
+         event.preventDefault();
+     	});
+     });
+ </script>
+
+
+<div data-role="page">
+
+	<div data-role="header">
+		<h1>earSmart Demo</h1>
+		<a href="#" class="ui-btn-right">None</a>
+	</div><!-- /header -->
+
+	<div data-role="content">	
+		<div data-role="fieldcontain" >
+		<hr />
+
+		<fieldset data-role="controlgroup" data-type="horizontal" data-theme="b">
+			<label>Event Type:</label>
+			<select name="event_type" id="event_type">
+			   <option value="0">One Event A Time </option>
+			   <option value="1">Two events a time</option>	
+			</select>
+         </fieldset>
+        <a href="#" data-role="button" id="event_type_update" data-icon="check" data-theme="b" data-inline = "true" data-corners="true" >Update</a>
+        
+		<hr />
+	
+		<fieldset data-role="controlgroup" data-type="horizontal" data-theme="b" > 
+				<label>Current On Going Event and Heat #1:</label>
+<!-- #1 event Now -->				
+				<fieldset data-role="controlgroup" data-type="horizontal" data-theme="b" > 
+					<label>Event:</label>
+					<select name="e11" id="e11">
+					   <option value="0">0</option>
+					   <option value="1">1</option>
+					   <option value="2">2</option>
+					   <option value="3">3</option>
+					   <option value="4">4</option>
+					   <option value="5">5</option>
+					   <option value="6">6</option>
+					   <option value="7">7</option>
+					   <option value="8">8</option>
+					   <option value="9">9</option>
+					</select>
+					
+					<select name="e12" id="e12">
+					   <option value="0">0</option>
+					   <option value="1">1</option>
+					   <option value="2">2</option>
+					   <option value="3">3</option>
+					   <option value="4">4</option>
+					   <option value="5">5</option>
+					   <option value="6">6</option>
+					   <option value="7">7</option>
+					   <option value="8">8</option>
+					   <option value="9">9</option>
+					</select>
+				</fieldset>
+<!-- #1 heat Now -->				
+			<fieldset data-role="controlgroup" data-type="horizontal" data-theme="b" > 	
+				<label>  Heat:</label>
+				<select name="h11" id="h11">
+				   <option value="0">0</option>
+				   <option value="1">1</option>
+				   <option value="2">2</option>
+				   <option value="3">3</option>
+				   <option value="4">4</option>
+				   <option value="5">5</option>
+				   <option value="6">6</option>
+				   <option value="7">7</option>
+				   <option value="8">8</option>
+				   <option value="9">9</option>
+				</select>
+				
+				<select name="h12" id="h12">
+				   <option value="0">0</option>
+				   <option value="1">1</option>
+				   <option value="2">2</option>
+				   <option value="3">3</option>
+				   <option value="4">4</option>
+				   <option value="5">5</option>
+				   <option value="6">6</option>
+				   <option value="7">7</option>
+				   <option value="8">8</option>
+				   <option value="9">9</option>
+				</select>
+			</fieldset>
+		</fieldset>
+		<a href="#" data-role="button" id="event1_update" data-icon="check" data-theme="b" data-inline = "true" data-corners="true" >Update</a>
+		
+		<hr />
+		<fieldset data-role="controlgroup"  data-theme="b" > 
+			<label for="select-choice-current-heat1-10dig">Current On Going Event and Heat #2:</label>
+<!-- #2 event Now -->
+			<fieldset data-role="controlgroup" data-type="horizontal" data-theme="b" > 
+				<label>Event:</label>
+				<select name="e21" id="e21">
+				   <option value="0">0</option>
+				   <option value="1">1</option>
+				   <option value="2">2</option>
+				   <option value="3">3</option>
+				   <option value="4">4</option>
+				   <option value="5">5</option>
+				   <option value="6">6</option>
+				   <option value="7">7</option>
+				   <option value="8">8</option>
+				   <option value="9">9</option>
+				</select>
+
+				<select name="e22" id="e22">
+				   <option value="0">0</option>
+				   <option value="1">1</option>
+				   <option value="2">2</option>
+				   <option value="3">3</option>
+				   <option value="4">4</option>
+				   <option value="5">5</option>
+				   <option value="6">6</option>
+				   <option value="7">7</option>
+				   <option value="8">8</option>
+				   <option value="9">9</option>
+				</select>
+			</fieldset>
+<!-- #2 heat Now -->
+			<fieldset data-role="controlgroup" data-type="horizontal" data-theme="b" > 
+				<label>Heat :</label>
+				<select name="h21" id="h21">
+				   <option value="0">0</option>
+				   <option value="1">1</option>
+				   <option value="2">2</option>
+				   <option value="3">3</option>
+				   <option value="4">4</option>
+				   <option value="5">5</option>
+				   <option value="6">6</option>
+				   <option value="7">7</option>
+				   <option value="8">8</option>
+				   <option value="9">9</option>
+				</select>
+				
+				<select name="h22" id="h22">
+				   <option value="0">0</option>
+				   <option value="1">1</option>
+				   <option value="2">2</option>
+				   <option value="3">3</option>
+				   <option value="4">4</option>
+				   <option value="5">5</option>
+				   <option value="6">6</option>
+				   <option value="7">7</option>
+				   <option value="8">8</option>
+				   <option value="9">9</option>
+				</select>
+			</fieldset>
+
+		</fieldset>
+		<a href="#" data-role="button" id="event2_update" data-icon="check" data-theme="b" data-inline = "true" data-corners="true" >Update</a>
+		
+		 <hr />
+<!-- Reg Event Now -->
+		<fieldset data-role="controlgroup" data-theme="b"> 
+
+			<label>Latest Reg Event:</label>
+			<fieldset data-role="controlgroup" data-type="horizontal" data-theme="b" > 
+				<select name="e31" id="e31">
+				   <option value="0">0</option>
+				   <option value="1">1</option>
+				   <option value="2">2</option>
+				   <option value="3">3</option>
+				   <option value="4">4</option>
+				   <option value="5">5</option>
+				   <option value="6">6</option>
+				   <option value="7">7</option>
+				   <option value="8">8</option>
+				   <option value="9">9</option>
+				</select>
+				
+				<select name="e32" id="e32">
+				   <option value="0">0</option>
+				   <option value="1">1</option>
+				   <option value="2">2</option>
+				   <option value="3">3</option>
+				   <option value="4">4</option>
+				   <option value="5">5</option>
+				   <option value="6">6</option>
+				   <option value="7">7</option>
+				   <option value="8">8</option>
+				   <option value="9">9</option>
+				</select>
+			</fieldset>
+
+		</fieldset>
+		<a href="#" data-role="button" id="event3_update" data-icon="check" data-theme="b" data-inline = "true" data-corners="true" >Update</a>
+
+		<hr />		
+		
+		</div>
+	</div>
+
+
+</div><!-- /page -->
+
+</body>
+</html>

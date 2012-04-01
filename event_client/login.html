@@ -1,0 +1,61 @@
+<!DOCTYPE html> 
+<html> 
+	<head> 
+	<title>earSmart Demo</title> 
+	<meta name="viewport" content="width=device-width, initial-scale=1"> 
+	<link rel="stylesheet" href="http://code.jquery.com/mobile/1.1.0-rc.1/jquery.mobile-1.1.0-rc.1.min.css" />
+	<script src="http://code.jquery.com/jquery-1.7.1.min.js"></script>
+	<script src="http://code.jquery.com/mobile/1.1.0-rc.1/jquery.mobile-1.1.0-rc.1.min.js"></script>
+</head> 
+<body> 
+
+<script>
+     $(document).ready(function(){
+       $("#login").click(function(event){
+    	   $.getJSON('http://localhost/sites/elgg/services/api/rest/json/?method=Event.postInfo&Id=73&event123=currentEvent:1.2.2.7.7.7.8.7.6.5.4', 
+    			   function(data){
+    		         alert("haha");// our code to handle the data here
+    			   }
+    	   );	   
+         event.preventDefault();
+       });
+     });
+ </script>
+
+
+<div data-role="page">
+
+	<div data-role="header">
+		 <h1>Login</h1> 
+         <a href="index.html" class="ui-btn-right">Cancel</a> 
+	</div>
+
+	<div data-role="content">	
+	<!-- start content -->
+	<div data-role="content" data-inset="true">	
+	
+	       <form action="/FormActions/login.ashx" method="POST">
+	           <fieldset>
+	
+	           <label for="user">Email:</label>
+	           <input type="text" name="user" id="user" value=""  />
+	
+	           <label for="password">Password:</label>
+	           <input type="password" name="password" id="password" value="" />
+	
+	            <input id="Submit1" type="submit" value="Login" data-role="button" data-inline="true" data-theme="b" />         
+	
+	           <hr />
+	           Don't have a login? <a href="register.aspx">Sign Up</a>
+	           </fieldset>
+	       </form>
+	       
+	</div>
+	<!-- end content -->
+	
+    </div>
+
+</div><!-- /page -->
+
+</body>
+</html>
