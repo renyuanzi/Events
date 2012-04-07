@@ -1,0 +1,8 @@
+//
+// Prefix header for all source files of the 'einSwitch003' target in the 'einSwitch003' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+#endif

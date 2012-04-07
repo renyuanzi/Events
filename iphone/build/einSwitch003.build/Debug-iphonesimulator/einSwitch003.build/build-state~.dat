@@ -1,0 +1,292 @@
+TeinSwitch003
+v7
+r0
+t354867880.459227
+cCheck dependencies
+cProcessInfoPlistFile /Users/oliviabornstein/Documents/einSwitch003/build/Debug-iphonesimulator/einSwitch003.app/Info.plist einSwitch003-Info.plist
+cCompileXIB /Users/oliviabornstein/Documents/einSwitch003/MainWindow.xib
+cCompileXIB /Users/oliviabornstein/Documents/einSwitch003/Classes/SecondViewController.xib
+cCompileXIB /Users/oliviabornstein/Documents/einSwitch003/Classes/FirstViewController.xib
+cProcessPCH /var/folders/Ls/LsjwyMeDFbKoXB1c+WxwHk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/einSwitch003_Prefix-fjdfnodrcpffxubxdvvmbpjlnwah/einSwitch003_Prefix.pch.gch einSwitch003_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/Objects-normal/i386/main.o /Users/oliviabornstein/Documents/einSwitch003/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/Objects-normal/i386/einSwitch003AppDelegate.o /Users/oliviabornstein/Documents/einSwitch003/Classes/einSwitch003AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/Objects-normal/i386/SecondViewController.o /Users/oliviabornstein/Documents/einSwitch003/Classes/SecondViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/Objects-normal/i386/FirstViewController.o /Users/oliviabornstein/Documents/einSwitch003/Classes/FirstViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D5C9B4E0000000000000110
+t1297914702
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/Users/oliviabornstein/Documents/einSwitch003/Classes/FirstViewController.h
+c000000004F76A0CC00000000000000F6
+t1333174476
+s246
+i<UIKit/UIKit.h>
+
+N/Users/oliviabornstein/Documents/einSwitch003/Classes/FirstViewController.m
+c000000004F76A0CC00000000000005BB
+t1333174476
+s1467
+i"FirstViewController.h"
+
+N/Users/oliviabornstein/Documents/einSwitch003/Classes/FirstViewController.xib
+c000000004F76A171000000000000471B
+t1333174641
+s18203
+
+N/Users/oliviabornstein/Documents/einSwitch003/Classes/SecondViewController.h
+c000000004F76A09E00000000000000F8
+t1333174430
+s248
+i<UIKit/UIKit.h>
+
+N/Users/oliviabornstein/Documents/einSwitch003/Classes/SecondViewController.m
+c000000004F76A09E00000000000005BE
+t1333174430
+s1470
+i"SecondViewController.h"
+
+N/Users/oliviabornstein/Documents/einSwitch003/Classes/SecondViewController.xib
+c000000004F76A1A400000000000047D0
+t1333174692
+s18384
+
+N/Users/oliviabornstein/Documents/einSwitch003/Classes/einSwitch003AppDelegate.h
+c000000004F769EE900000000000001F5
+t1333173993
+s501
+i<UIKit/UIKit.h>
+
+N/Users/oliviabornstein/Documents/einSwitch003/Classes/einSwitch003AppDelegate.m
+c000000004F769FCF0000000000000A4D
+t1333174223
+s2637
+i"einSwitch003AppDelegate.h"
+
+N/Users/oliviabornstein/Documents/einSwitch003/MainWindow.xib
+c000000004F76A30600000000000061F9
+t1333175046
+s25081
+
+N/Users/oliviabornstein/Documents/einSwitch003/build/Debug-iphonesimulator/einSwitch003.app
+t2
+s0
+
+N/Users/oliviabornstein/Documents/einSwitch003/build/Debug-iphonesimulator/einSwitch003.app.dSYM
+t2
+s0
+
+N/Users/oliviabornstein/Documents/einSwitch003/build/Debug-iphonesimulator/einSwitch003.app/FirstViewController.nib
+t1333175079
+s1682
+
+N/Users/oliviabornstein/Documents/einSwitch003/build/Debug-iphonesimulator/einSwitch003.app/Info.plist
+t1333175078
+s611
+
+N/Users/oliviabornstein/Documents/einSwitch003/build/Debug-iphonesimulator/einSwitch003.app/MainWindow.nib
+t1333175078
+s2543
+
+N/Users/oliviabornstein/Documents/einSwitch003/build/Debug-iphonesimulator/einSwitch003.app/PkgInfo
+t1333175078
+s8
+
+N/Users/oliviabornstein/Documents/einSwitch003/build/Debug-iphonesimulator/einSwitch003.app/SecondViewController.nib
+t1333175078
+s1684
+
+N/Users/oliviabornstein/Documents/einSwitch003/build/Debug-iphonesimulator/einSwitch003.app/einSwitch003
+t2
+s0
+
+N/Users/oliviabornstein/Documents/einSwitch003/build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/Objects-normal/i386/FirstViewController.o
+t1333175080
+s38120
+
+N/Users/oliviabornstein/Documents/einSwitch003/build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/Objects-normal/i386/SecondViewController.o
+t1333175080
+s38140
+
+N/Users/oliviabornstein/Documents/einSwitch003/build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/Objects-normal/i386/einSwitch003.LinkFileList
+c000000004F76A326000000000000025E
+t1333175078
+s606
+
+N/Users/oliviabornstein/Documents/einSwitch003/build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/Objects-normal/i386/einSwitch003AppDelegate.o
+t2
+s0
+
+N/Users/oliviabornstein/Documents/einSwitch003/build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/Objects-normal/i386/main.o
+t1333175080
+s6324
+
+N/Users/oliviabornstein/Documents/einSwitch003/einSwitch003_Prefix.pch
+c000000004F769DFF00000000000000C1
+t1333173759
+s193
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/oliviabornstein/Documents/einSwitch003/main.m
+c000000004F769DFF0000000000000175
+t1333173759
+s373
+i<UIKit/UIKit.h>
+
+N/var/folders/Ls/LsjwyMeDFbKoXB1c+WxwHk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/einSwitch003_Prefix-fjdfnodrcpffxubxdvvmbpjlnwah/einSwitch003_Prefix.pch.gch
+t1333175080
+s15814064
+
+NeinSwitch003-Info.plist
+c000000004F769DFF000000000000038D
+t1333173759
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies354867878#354867878#0(0"0(0#1#0"8619397056#0"0#
+
+CCompileC build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/Objects-normal/i386/FirstViewController.o /Users/oliviabornstein/Documents/einSwitch003/Classes/FirstViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s354867880.366859
+e354867880.450626
+r1
+xCompileC
+xbuild/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/Objects-normal/i386/FirstViewController.o
+x/Users/oliviabornstein/Documents/einSwitch003/Classes/FirstViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Users/oliviabornstein/Documents/einSwitch003/Classes/FirstViewController.m354867880#354867880#0(0"0(0#0#75"/Users/oliviabornstein/Documents/einSwitch003/Classes/FirstViewController.m8602466944#2129"    cd /Users/oliviabornstein/Documents/einSwitch003    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/oliviabornstein/Documents/einSwitch003/build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/einSwitch003-generated-files.hmap -I/Users/oliviabornstein/Documents/einSwitch003/build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/einSwitch003-own-target-headers.hmap -I/Users/oliviabornstein/Documents/einSwitch003/build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/einSwitch003-all-target-headers.hmap -iquote /Users/oliviabornstein/Documents/einSwitch003/build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/einSwitch003-project-headers.hmap -F/Users/oliviabornstein/Documents/einSwitch003/build/Debug-iphonesimulator -I/Users/oliviabornstein/Documents/einSwitch003/build/Debug-iphonesimulator/include -I/Users/oliviabornstein/Documents/einSwitch003/build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/DerivedSources/i386 -I/Users/oliviabornstein/Documents/einSwitch003/build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/DerivedSources -include /var/folders/Ls/LsjwyMeDFbKoXB1c+WxwHk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/einSwitch003_Prefix-fjdfnodrcpffxubxdvvmbpjlnwah/einSwitch003_Prefix.pch -c /Users/oliviabornstein/Documents/einSwitch003/Classes/FirstViewController.m -o /Users/oliviabornstein/Documents/einSwitch003/build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/Objects-normal/i386/FirstViewController.o0#
+
+CCompileC build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/Objects-normal/i386/SecondViewController.o /Users/oliviabornstein/Documents/einSwitch003/Classes/SecondViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s354867880.352744
+e354867880.459137
+r1
+xCompileC
+xbuild/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/Objects-normal/i386/SecondViewController.o
+x/Users/oliviabornstein/Documents/einSwitch003/Classes/SecondViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@84"Compile /Users/oliviabornstein/Documents/einSwitch003/Classes/SecondViewController.m354867880#354867880#0(0"0(0#0#76"/Users/oliviabornstein/Documents/einSwitch003/Classes/SecondViewController.m8618810784#2131"    cd /Users/oliviabornstein/Documents/einSwitch003    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/oliviabornstein/Documents/einSwitch003/build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/einSwitch003-generated-files.hmap -I/Users/oliviabornstein/Documents/einSwitch003/build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/einSwitch003-own-target-headers.hmap -I/Users/oliviabornstein/Documents/einSwitch003/build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/einSwitch003-all-target-headers.hmap -iquote /Users/oliviabornstein/Documents/einSwitch003/build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/einSwitch003-project-headers.hmap -F/Users/oliviabornstein/Documents/einSwitch003/build/Debug-iphonesimulator -I/Users/oliviabornstein/Documents/einSwitch003/build/Debug-iphonesimulator/include -I/Users/oliviabornstein/Documents/einSwitch003/build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/DerivedSources/i386 -I/Users/oliviabornstein/Documents/einSwitch003/build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/DerivedSources -include /var/folders/Ls/LsjwyMeDFbKoXB1c+WxwHk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/einSwitch003_Prefix-fjdfnodrcpffxubxdvvmbpjlnwah/einSwitch003_Prefix.pch -c /Users/oliviabornstein/Documents/einSwitch003/Classes/SecondViewController.m -o /Users/oliviabornstein/Documents/einSwitch003/build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/Objects-normal/i386/SecondViewController.o0#
+
+CCompileC build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/Objects-normal/i386/einSwitch003AppDelegate.o /Users/oliviabornstein/Documents/einSwitch003/Classes/einSwitch003AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s354867880.280022
+e354867880.352488
+r0
+xCompileC
+xbuild/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/Objects-normal/i386/einSwitch003AppDelegate.o
+x/Users/oliviabornstein/Documents/einSwitch003/Classes/einSwitch003AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/oliviabornstein/Documents/einSwitch003/Classes/einSwitch003AppDelegate.m:9:
+o/Users/oliviabornstein/Documents/einSwitch003/Classes/einSwitch003AppDelegate.h:12: error: expected specifier-qualifier-list before 'UITabBarControllerDelegate'
+o/Users/oliviabornstein/Documents/einSwitch003/Classes/einSwitch003AppDelegate.h:17: error: expected a property attribute before 'ratain'
+o/Users/oliviabornstein/Documents/einSwitch003/Classes/einSwitch003AppDelegate.m:14: error: no declaration of property 'tabBarController' found in the interface
+o/Users/oliviabornstein/Documents/einSwitch003/Classes/einSwitch003AppDelegate.m: In function '-[einSwitch003AppDelegate application:didFinishLaunchingWithOptions:]':
+o/Users/oliviabornstein/Documents/einSwitch003/Classes/einSwitch003AppDelegate.m:22: error: 'tabBarController' undeclared (first use in this function)
+o/Users/oliviabornstein/Documents/einSwitch003/Classes/einSwitch003AppDelegate.m:22: error: (Each undeclared identifier is reported only once
+o/Users/oliviabornstein/Documents/einSwitch003/Classes/einSwitch003AppDelegate.m:22: error: for each function it appears in.)
+o/Users/oliviabornstein/Documents/einSwitch003/Classes/einSwitch003AppDelegate.m: In function '-[einSwitch003AppDelegate dealloc]':
+o/Users/oliviabornstein/Documents/einSwitch003/Classes/einSwitch003AppDelegate.m:79: error: 'tabBarController' undeclared (first use in this function)
+lSLF07#2@87"Compile /Users/oliviabornstein/Documents/einSwitch003/Classes/einSwitch003AppDelegate.m354867880#354867880#0(1426"In file included from /Users/oliviabornstein/Documents/einSwitch003/Classes/einSwitch003AppDelegate.m:9:/Users/oliviabornstein/Documents/einSwitch003/Classes/einSwitch003AppDelegate.h:12: error: expected specifier-qualifier-list before 'UITabBarControllerDelegate'/Users/oliviabornstein/Documents/einSwitch003/Classes/einSwitch003AppDelegate.h:17: error: expected a property attribute before 'ratain'/Users/oliviabornstein/Documents/einSwitch003/Classes/einSwitch003AppDelegate.m:14: error: no declaration of property 'tabBarController' found in the interface/Users/oliviabornstein/Documents/einSwitch003/Classes/einSwitch003AppDelegate.m: In function '-[einSwitch003AppDelegate application:didFinishLaunchingWithOptions:]':/Users/oliviabornstein/Documents/einSwitch003/Classes/einSwitch003AppDelegate.m:22: error: 'tabBarController' undeclared (first use in this function)/Users/oliviabornstein/Documents/einSwitch003/Classes/einSwitch003AppDelegate.m:22: error: (Each undeclared identifier is reported only once/Users/oliviabornstein/Documents/einSwitch003/Classes/einSwitch003AppDelegate.m:22: error: for each function it appears in.)/Users/oliviabornstein/Documents/einSwitch003/Classes/einSwitch003AppDelegate.m: In function '-[einSwitch003AppDelegate dealloc]':/Users/oliviabornstein/Documents/einSwitch003/Classes/einSwitch003AppDelegate.m:79: error: 'tabBarController' undeclared (first use in this function)5(4@69"Expected specifier-qualifier-list before 'UITabBarControllerDelegate'354867880#105#161#2(7@101"In file included from /Users/oliviabornstein/Documents/einSwitch003/Classes/einSwitch003AppDelegate.m354867880#18446744073709551615#0#0(6@79"/Users/oliviabornstein/Documents/einSwitch003/Classes/einSwitch003AppDelegate.m354867023#9#0#9#0#0"0(13@152"Expected specifier-qualifier-list before 'UITabBarControllerDelegate' in /Users/oliviabornstein/Documents/einSwitch003/Classes/einSwitch003AppDelegate.h354867880#18446744073709551615#0#0(6@79"/Users/oliviabornstein/Documents/einSwitch003/Classes/einSwitch003AppDelegate.h354866793#12#0#12#0#0"0(6@79"/Users/oliviabornstein/Documents/einSwitch003/Classes/einSwitch003AppDelegate.h354866793#12#0#12#0#19"expected * before *0(4@45"Expected a property attribute before 'ratain'354867880#266#137#2(7@101"In file included from /Users/oliviabornstein/Documents/einSwitch003/Classes/einSwitch003AppDelegate.m354867880#18446744073709551615#0#0(6@79"/Users/oliviabornstein/Documents/einSwitch003/Classes/einSwitch003AppDelegate.m354867023#9#0#9#0#0"0(13@128"Expected a property attribute before 'ratain' in /Users/oliviabornstein/Documents/einSwitch003/Classes/einSwitch003AppDelegate.h354867880#18446744073709551615#0#0(6@79"/Users/oliviabornstein/Documents/einSwitch003/Classes/einSwitch003AppDelegate.h354866793#17#0#17#0#0"0(6@79"/Users/oliviabornstein/Documents/einSwitch003/Classes/einSwitch003AppDelegate.h354866793#17#0#17#0#19"expected * before *0(4@68"No declaration of property 'tabBarController' found in the interface354867880#403#160#0(6@79"/Users/oliviabornstein/Documents/einSwitch003/Classes/einSwitch003AppDelegate.m354867023#14#0#14#0#0"0(4@58"'tabBarController' undeclared (first use in this function)354867880#729#150#0(6@79"/Users/oliviabornstein/Documents/einSwitch003/Classes/einSwitch003AppDelegate.m354867023#22#0#22#0#43"'*' undeclared (first use in this function)0(4@58"'tabBarController' undeclared (first use in this function)354867880#1276#150#0(6@79"/Users/oliviabornstein/Documents/einSwitch003/Classes/einSwitch003AppDelegate.m354867023#79#0#79#0#43"'*' undeclared (first use in this function)0(0#0#79"/Users/oliviabornstein/Documents/einSwitch003/Classes/einSwitch003AppDelegate.m8598464416#2137"    cd /Users/oliviabornstein/Documents/einSwitch003    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/oliviabornstein/Documents/einSwitch003/build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/einSwitch003-generated-files.hmap -I/Users/oliviabornstein/Documents/einSwitch003/build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/einSwitch003-own-target-headers.hmap -I/Users/oliviabornstein/Documents/einSwitch003/build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/einSwitch003-all-target-headers.hmap -iquote /Users/oliviabornstein/Documents/einSwitch003/build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/einSwitch003-project-headers.hmap -F/Users/oliviabornstein/Documents/einSwitch003/build/Debug-iphonesimulator -I/Users/oliviabornstein/Documents/einSwitch003/build/Debug-iphonesimulator/include -I/Users/oliviabornstein/Documents/einSwitch003/build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/DerivedSources/i386 -I/Users/oliviabornstein/Documents/einSwitch003/build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/DerivedSources -include /var/folders/Ls/LsjwyMeDFbKoXB1c+WxwHk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/einSwitch003_Prefix-fjdfnodrcpffxubxdvvmbpjlnwah/einSwitch003_Prefix.pch -c /Users/oliviabornstein/Documents/einSwitch003/Classes/einSwitch003AppDelegate.m -o /Users/oliviabornstein/Documents/einSwitch003/build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/Objects-normal/i386/einSwitch003AppDelegate.o1#
+
+CCompileC build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/Objects-normal/i386/main.o /Users/oliviabornstein/Documents/einSwitch003/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s354867880.278614
+e354867880.366741
+r1
+xCompileC
+xbuild/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/Objects-normal/i386/main.o
+x/Users/oliviabornstein/Documents/einSwitch003/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@60"Compile /Users/oliviabornstein/Documents/einSwitch003/main.m354867880#354867880#0(0"0(0#0#52"/Users/oliviabornstein/Documents/einSwitch003/main.m8616311648#2091"    cd /Users/oliviabornstein/Documents/einSwitch003    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/oliviabornstein/Documents/einSwitch003/build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/einSwitch003-generated-files.hmap -I/Users/oliviabornstein/Documents/einSwitch003/build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/einSwitch003-own-target-headers.hmap -I/Users/oliviabornstein/Documents/einSwitch003/build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/einSwitch003-all-target-headers.hmap -iquote /Users/oliviabornstein/Documents/einSwitch003/build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/einSwitch003-project-headers.hmap -F/Users/oliviabornstein/Documents/einSwitch003/build/Debug-iphonesimulator -I/Users/oliviabornstein/Documents/einSwitch003/build/Debug-iphonesimulator/include -I/Users/oliviabornstein/Documents/einSwitch003/build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/DerivedSources/i386 -I/Users/oliviabornstein/Documents/einSwitch003/build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/DerivedSources -include /var/folders/Ls/LsjwyMeDFbKoXB1c+WxwHk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/einSwitch003_Prefix-fjdfnodrcpffxubxdvvmbpjlnwah/einSwitch003_Prefix.pch -c /Users/oliviabornstein/Documents/einSwitch003/main.m -o /Users/oliviabornstein/Documents/einSwitch003/build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/oliviabornstein/Documents/einSwitch003/Classes/FirstViewController.xib
+s354867878.867506
+e354867879.423946
+r1
+xCompileXIB
+x/Users/oliviabornstein/Documents/einSwitch003/Classes/FirstViewController.xib
+lSLF07#2@42"CompileXIB Classes/FirstViewController.xib354867878#354867879#0(0"0(0#0#77"/Users/oliviabornstein/Documents/einSwitch003/Classes/FirstViewController.xib8623471328#622"    cd /Users/oliviabornstein/Documents/einSwitch003    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/oliviabornstein/Documents/einSwitch003/build/Debug-iphonesimulator/einSwitch003.app/FirstViewController.nib /Users/oliviabornstein/Documents/einSwitch003/Classes/FirstViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/oliviabornstein/Documents/einSwitch003/Classes/SecondViewController.xib
+s354867878.298351
+e354867878.867405
+r1
+xCompileXIB
+x/Users/oliviabornstein/Documents/einSwitch003/Classes/SecondViewController.xib
+lSLF07#2@43"CompileXIB Classes/SecondViewController.xib354867878#354867878#0(0"0(0#0#78"/Users/oliviabornstein/Documents/einSwitch003/Classes/SecondViewController.xib8625789376#624"    cd /Users/oliviabornstein/Documents/einSwitch003    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/oliviabornstein/Documents/einSwitch003/build/Debug-iphonesimulator/einSwitch003.app/SecondViewController.nib /Users/oliviabornstein/Documents/einSwitch003/Classes/SecondViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/oliviabornstein/Documents/einSwitch003/MainWindow.xib
+s354867878.294542
+e354867878.880425
+r1
+xCompileXIB
+x/Users/oliviabornstein/Documents/einSwitch003/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib354867878#354867878#0(0"0(0#0#60"/Users/oliviabornstein/Documents/einSwitch003/MainWindow.xib8605793184#596"    cd /Users/oliviabornstein/Documents/einSwitch003    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/oliviabornstein/Documents/einSwitch003/build/Debug-iphonesimulator/einSwitch003.app/MainWindow.nib /Users/oliviabornstein/Documents/einSwitch003/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CGenerateDSYMFile /Users/oliviabornstein/Documents/einSwitch003/build/Debug-iphonesimulator/einSwitch003.app.dSYM /Users/oliviabornstein/Documents/einSwitch003/build/Debug-iphonesimulator/einSwitch003.app/einSwitch003
+r0
+
+CLd /Users/oliviabornstein/Documents/einSwitch003/build/Debug-iphonesimulator/einSwitch003.app/einSwitch003 normal i386
+r0
+
+CProcessInfoPlistFile /Users/oliviabornstein/Documents/einSwitch003/build/Debug-iphonesimulator/einSwitch003.app/Info.plist einSwitch003-Info.plist
+s354867878.288221
+e354867878.294449
+r1
+xProcessInfoPlistFile
+x/Users/oliviabornstein/Documents/einSwitch003/build/Debug-iphonesimulator/einSwitch003.app/Info.plist
+xeinSwitch003-Info.plist
+lSLF07#2@31"Process einSwitch003-Info.plist354867878#354867878#0(0"0(0#0#69"/Users/oliviabornstein/Documents/einSwitch003/einSwitch003-Info.plist8600392128#515"    cd /Users/oliviabornstein/Documents/einSwitch003    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility einSwitch003-Info.plist -genpkginfo /Users/oliviabornstein/Documents/einSwitch003/build/Debug-iphonesimulator/einSwitch003.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/oliviabornstein/Documents/einSwitch003/build/Debug-iphonesimulator/einSwitch003.app/Info.plist0#
+
+CProcessPCH /var/folders/Ls/LsjwyMeDFbKoXB1c+WxwHk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/einSwitch003_Prefix-fjdfnodrcpffxubxdvvmbpjlnwah/einSwitch003_Prefix.pch.gch einSwitch003_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s354867879.424145
+e354867880.278363
+r1
+xProcessPCH
+x/var/folders/Ls/LsjwyMeDFbKoXB1c+WxwHk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/einSwitch003_Prefix-fjdfnodrcpffxubxdvvmbpjlnwah/einSwitch003_Prefix.pch.gch
+xeinSwitch003_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile einSwitch003_Prefix.pch354867879#354867880#0(0"0(0#0#69"/Users/oliviabornstein/Documents/einSwitch003/einSwitch003_Prefix.pch8603607712#1971"    cd /Users/oliviabornstein/Documents/einSwitch003    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/oliviabornstein/Documents/einSwitch003/build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/einSwitch003-generated-files.hmap -I/Users/oliviabornstein/Documents/einSwitch003/build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/einSwitch003-own-target-headers.hmap -I/Users/oliviabornstein/Documents/einSwitch003/build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/einSwitch003-all-target-headers.hmap -iquote /Users/oliviabornstein/Documents/einSwitch003/build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/einSwitch003-project-headers.hmap -F/Users/oliviabornstein/Documents/einSwitch003/build/Debug-iphonesimulator -I/Users/oliviabornstein/Documents/einSwitch003/build/Debug-iphonesimulator/include -I/Users/oliviabornstein/Documents/einSwitch003/build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/DerivedSources/i386 -I/Users/oliviabornstein/Documents/einSwitch003/build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/DerivedSources -c /Users/oliviabornstein/Documents/einSwitch003/einSwitch003_Prefix.pch -o /var/folders/Ls/LsjwyMeDFbKoXB1c+WxwHk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/einSwitch003_Prefix-fjdfnodrcpffxubxdvvmbpjlnwah/einSwitch003_Prefix.pch.gch0#
+
+CTouch /Users/oliviabornstein/Documents/einSwitch003/build/Debug-iphonesimulator/einSwitch003.app
+r0
+

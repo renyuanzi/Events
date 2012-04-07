@@ -1,0 +1,704 @@
+TeinSwitch003
+v7
+r0
+t355290905.691677
+cCheck dependencies
+cProcessInfoPlistFile /Users/oliviabornstein/Documents/einSwitch003/build/Debug-iphonesimulator/einSwitch003.app/Info.plist einSwitch003-Info.plist
+cCompileXIB /Users/oliviabornstein/Documents/einSwitch003/MainWindow.xib
+cCompileXIB /Users/oliviabornstein/Documents/einSwitch003/Classes/SecondViewController.xib
+cCompileXIB /Users/oliviabornstein/Documents/einSwitch003/Classes/FirstViewController.xib
+cCpResource build/Debug-iphonesimulator/einSwitch003.app/0.jpg 0.jpg
+cCpResource build/Debug-iphonesimulator/einSwitch003.app/1.jpg 1.jpg
+cCpResource build/Debug-iphonesimulator/einSwitch003.app/2.jpg 2.jpg
+cCpResource build/Debug-iphonesimulator/einSwitch003.app/3.jpg 3.jpg
+cCpResource build/Debug-iphonesimulator/einSwitch003.app/4.jpg 4.jpg
+cCpResource build/Debug-iphonesimulator/einSwitch003.app/5.jpg 5.jpg
+cCpResource build/Debug-iphonesimulator/einSwitch003.app/6.jpg 6.jpg
+cCpResource build/Debug-iphonesimulator/einSwitch003.app/7.jpg 7.jpg
+cCpResource build/Debug-iphonesimulator/einSwitch003.app/8.jpg 8.jpg
+cCpResource build/Debug-iphonesimulator/einSwitch003.app/9.jpg 9.jpg
+cProcessPCH /var/folders/Ls/LsjwyMeDFbKoXB1c+WxwHk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/einSwitch003_Prefix-fjdfnodrcpffxubxdvvmbpjlnwah/einSwitch003_Prefix.pch.gch einSwitch003_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/Objects-normal/i386/main.o /Users/oliviabornstein/Documents/einSwitch003/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/Objects-normal/i386/einSwitch003AppDelegate.o /Users/oliviabornstein/Documents/einSwitch003/Classes/einSwitch003AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/Objects-normal/i386/SecondViewController.o /Users/oliviabornstein/Documents/einSwitch003/Classes/SecondViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/Objects-normal/i386/FirstViewController.o /Users/oliviabornstein/Documents/einSwitch003/Classes/FirstViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/Objects-normal/i386/NSObject+SBJSON.o /Users/oliviabornstein/Documents/einSwitch003/NSObject+SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/Objects-normal/i386/NSString+SBJSON.o /Users/oliviabornstein/Documents/einSwitch003/NSString+SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/Objects-normal/i386/SBJsonBase.o /Users/oliviabornstein/Documents/einSwitch003/SBJsonBase.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/Objects-normal/i386/SBJsonParser.o /Users/oliviabornstein/Documents/einSwitch003/SBJsonParser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/Objects-normal/i386/SBJsonWriter.o /Users/oliviabornstein/Documents/einSwitch003/SBJsonWriter.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/oliviabornstein/Documents/einSwitch003/build/Debug-iphonesimulator/einSwitch003.app/einSwitch003 normal i386
+cGenerateDSYMFile /Users/oliviabornstein/Documents/einSwitch003/build/Debug-iphonesimulator/einSwitch003.app.dSYM /Users/oliviabornstein/Documents/einSwitch003/build/Debug-iphonesimulator/einSwitch003.app/einSwitch003
+cTouch /Users/oliviabornstein/Documents/einSwitch003/build/Debug-iphonesimulator/einSwitch003.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D5C9B4E0000000000000110
+t1297914702
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/Users/oliviabornstein/Documents/einSwitch003/0.jpg
+c000000004F590DA6000000000000BE19
+t1331236262
+s48665
+
+N/Users/oliviabornstein/Documents/einSwitch003/1.jpg
+c000000004F590D9C00000000000076CE
+t1331236252
+s30414
+
+N/Users/oliviabornstein/Documents/einSwitch003/2.jpg
+c000000004F590DA6000000000000BD20
+t1331236262
+s48416
+
+N/Users/oliviabornstein/Documents/einSwitch003/3.jpg
+c000000004F590DA6000000000000B1F8
+t1331236262
+s45560
+
+N/Users/oliviabornstein/Documents/einSwitch003/4.jpg
+c000000004F590DA6000000000000A269
+t1331236262
+s41577
+
+N/Users/oliviabornstein/Documents/einSwitch003/5.jpg
+c000000004F590DA6000000000000B86A
+t1331236262
+s47210
+
+N/Users/oliviabornstein/Documents/einSwitch003/6.jpg
+c000000004F590DA6000000000000BB8B
+t1331236262
+s48011
+
+N/Users/oliviabornstein/Documents/einSwitch003/7.jpg
+c000000004F590DA60000000000008E18
+t1331236262
+s36376
+
+N/Users/oliviabornstein/Documents/einSwitch003/8.jpg
+c000000004F590DA6000000000000C269
+t1331236262
+s49769
+
+N/Users/oliviabornstein/Documents/einSwitch003/9.jpg
+c000000004F590DA6000000000000BC87
+t1331236262
+s48263
+
+N/Users/oliviabornstein/Documents/einSwitch003/Classes/FirstViewController.h
+c000000004F7D16F80000000000000247
+t1333597944
+s583
+i<UIKit/UIKit.h>
+
+N/Users/oliviabornstein/Documents/einSwitch003/Classes/FirstViewController.m
+c000000004F7D179900000000000014A6
+t1333598105
+s5286
+i"FirstViewController.h"
+
+N/Users/oliviabornstein/Documents/einSwitch003/Classes/FirstViewController.xib
+c000000004F7BEBC40000000000004D88
+t1333521348
+s19848
+
+N/Users/oliviabornstein/Documents/einSwitch003/Classes/SecondViewController.h
+c000000004F7A6F340000000000000379
+t1333423924
+s889
+i<UIKit/UIKit.h>
+
+N/Users/oliviabornstein/Documents/einSwitch003/Classes/SecondViewController.m
+c000000004F7D160800000000000033A6
+t1333597704
+s13222
+i"SecondViewController.h"
+i"JSON.h"
+
+N/Users/oliviabornstein/Documents/einSwitch003/Classes/SecondViewController.xib
+c000000004F7BEBC6000000000000535A
+t1333521350
+s21338
+
+N/Users/oliviabornstein/Documents/einSwitch003/Classes/einSwitch003AppDelegate.h
+c000000004F78750C00000000000001ED
+t1333294348
+s493
+i<UIKit/UIKit.h>
+
+N/Users/oliviabornstein/Documents/einSwitch003/Classes/einSwitch003AppDelegate.m
+c000000004F769FCF0000000000000A4D
+t1333174223
+s2637
+i"einSwitch003AppDelegate.h"
+
+N/Users/oliviabornstein/Documents/einSwitch003/JSON.h
+c000000004C9CC2D60000000000000AC5
+t1285341910
+s2757
+i"SBJsonParser.h"
+i"SBJsonWriter.h"
+i"NSObject+SBJSON.h"
+i"NSString+SBJSON.h"
+i<JSON/SBJsonParser.h>
+i<JSON/SBJsonWriter.h>
+i<JSON/NSObject+SBJSON.h>
+i<JSON/NSString+SBJSON.h>
+
+N/Users/oliviabornstein/Documents/einSwitch003/MainWindow.xib
+c000000004F7BEBD3000000000000765E
+t1333521363
+s30302
+
+N/Users/oliviabornstein/Documents/einSwitch003/NSObject+SBJSON.h
+c000000004C9CC2D6000000000000085F
+t1285341910
+s2143
+i<Foundation/Foundation.h>
+
+N/Users/oliviabornstein/Documents/einSwitch003/NSObject+SBJSON.m
+c000000004C9CC2D6000000000000077D
+t1285341910
+s1917
+i"NSObject+SBJSON.h"
+i"SBJsonWriter.h"
+
+N/Users/oliviabornstein/Documents/einSwitch003/NSString+SBJSON.h
+c000000004C9CC2D600000000000007F0
+t1285341910
+s2032
+i<Foundation/Foundation.h>
+
+N/Users/oliviabornstein/Documents/einSwitch003/NSString+SBJSON.m
+c000000004C9CC2D6000000000000075D
+t1285341910
+s1885
+i"NSString+SBJSON.h"
+i"SBJsonParser.h"
+
+N/Users/oliviabornstein/Documents/einSwitch003/SBJsonBase.h
+c000000004C9CC2D60000000000000B82
+t1285341910
+s2946
+i<Foundation/Foundation.h>
+
+N/Users/oliviabornstein/Documents/einSwitch003/SBJsonBase.m
+c000000004C9CC2D60000000000000AC1
+t1285341910
+s2753
+i"SBJsonBase.h"
+
+N/Users/oliviabornstein/Documents/einSwitch003/SBJsonParser.h
+c000000004C9CC2D60000000000000C8F
+t1285341910
+s3215
+i<Foundation/Foundation.h>
+i"SBJsonBase.h"
+
+N/Users/oliviabornstein/Documents/einSwitch003/SBJsonParser.m
+c000000004C9CC2D60000000000003B7A
+t1285341910
+s15226
+i"SBJsonParser.h"
+
+N/Users/oliviabornstein/Documents/einSwitch003/SBJsonWriter.h
+c000000004C9CC2D600000000000011D9
+t1285341910
+s4569
+i<Foundation/Foundation.h>
+i"SBJsonBase.h"
+
+N/Users/oliviabornstein/Documents/einSwitch003/SBJsonWriter.m
+c000000004C9CC2D6000000000000206D
+t1285341910
+s8301
+i"SBJsonWriter.h"
+
+N/Users/oliviabornstein/Documents/einSwitch003/build/Debug-iphonesimulator/einSwitch003.app
+t1333598105
+s612
+
+N/Users/oliviabornstein/Documents/einSwitch003/build/Debug-iphonesimulator/einSwitch003.app.dSYM
+t1333598105
+s102
+
+N/Users/oliviabornstein/Documents/einSwitch003/build/Debug-iphonesimulator/einSwitch003.app/0.jpg
+t1333415216
+s48665
+
+N/Users/oliviabornstein/Documents/einSwitch003/build/Debug-iphonesimulator/einSwitch003.app/1.jpg
+t1333415216
+s30414
+
+N/Users/oliviabornstein/Documents/einSwitch003/build/Debug-iphonesimulator/einSwitch003.app/2.jpg
+t1333415216
+s48416
+
+N/Users/oliviabornstein/Documents/einSwitch003/build/Debug-iphonesimulator/einSwitch003.app/3.jpg
+t1333415216
+s45560
+
+N/Users/oliviabornstein/Documents/einSwitch003/build/Debug-iphonesimulator/einSwitch003.app/4.jpg
+t1333415216
+s41577
+
+N/Users/oliviabornstein/Documents/einSwitch003/build/Debug-iphonesimulator/einSwitch003.app/5.jpg
+t1333415216
+s47210
+
+N/Users/oliviabornstein/Documents/einSwitch003/build/Debug-iphonesimulator/einSwitch003.app/6.jpg
+t1333415216
+s48011
+
+N/Users/oliviabornstein/Documents/einSwitch003/build/Debug-iphonesimulator/einSwitch003.app/7.jpg
+t1333415216
+s36376
+
+N/Users/oliviabornstein/Documents/einSwitch003/build/Debug-iphonesimulator/einSwitch003.app/8.jpg
+t1333415216
+s49769
+
+N/Users/oliviabornstein/Documents/einSwitch003/build/Debug-iphonesimulator/einSwitch003.app/9.jpg
+t1333415216
+s48263
+
+N/Users/oliviabornstein/Documents/einSwitch003/build/Debug-iphonesimulator/einSwitch003.app/FirstViewController.nib
+t1333521371
+s1683
+
+N/Users/oliviabornstein/Documents/einSwitch003/build/Debug-iphonesimulator/einSwitch003.app/Info.plist
+t1333175078
+s611
+
+N/Users/oliviabornstein/Documents/einSwitch003/build/Debug-iphonesimulator/einSwitch003.app/MainWindow.nib
+t1333521371
+s2999
+
+N/Users/oliviabornstein/Documents/einSwitch003/build/Debug-iphonesimulator/einSwitch003.app/PkgInfo
+t1333175078
+s8
+
+N/Users/oliviabornstein/Documents/einSwitch003/build/Debug-iphonesimulator/einSwitch003.app/SecondViewController.nib
+t1333521371
+s1689
+
+N/Users/oliviabornstein/Documents/einSwitch003/build/Debug-iphonesimulator/einSwitch003.app/einSwitch003
+t1333598105
+s85104
+
+N/Users/oliviabornstein/Documents/einSwitch003/build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/Objects-normal/i386/FirstViewController.o
+t1333598105
+s61364
+
+N/Users/oliviabornstein/Documents/einSwitch003/build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/Objects-normal/i386/NSObject+SBJSON.o
+t1333425869
+s7396
+
+N/Users/oliviabornstein/Documents/einSwitch003/build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/Objects-normal/i386/NSString+SBJSON.o
+t1333425869
+s7288
+
+N/Users/oliviabornstein/Documents/einSwitch003/build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/Objects-normal/i386/SBJsonBase.o
+t1333425869
+s13216
+
+N/Users/oliviabornstein/Documents/einSwitch003/build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/Objects-normal/i386/SBJsonParser.o
+t1333425869
+s36896
+
+N/Users/oliviabornstein/Documents/einSwitch003/build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/Objects-normal/i386/SBJsonWriter.o
+t1333425869
+s26660
+
+N/Users/oliviabornstein/Documents/einSwitch003/build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/Objects-normal/i386/SecondViewController.o
+t1333597705
+s91436
+
+N/Users/oliviabornstein/Documents/einSwitch003/build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/Objects-normal/i386/einSwitch003.LinkFileList
+c000000004F7A76CD0000000000000541
+t1333425869
+s1345
+
+N/Users/oliviabornstein/Documents/einSwitch003/build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/Objects-normal/i386/einSwitch003AppDelegate.o
+t1333294349
+s55052
+
+N/Users/oliviabornstein/Documents/einSwitch003/build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/Objects-normal/i386/main.o
+t1333175080
+s6324
+
+N/Users/oliviabornstein/Documents/einSwitch003/einSwitch003_Prefix.pch
+c000000004F769DFF00000000000000C1
+t1333173759
+s193
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/oliviabornstein/Documents/einSwitch003/main.m
+c000000004F769DFF0000000000000175
+t1333173759
+s373
+i<UIKit/UIKit.h>
+
+N/var/folders/Ls/LsjwyMeDFbKoXB1c+WxwHk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/einSwitch003_Prefix-fjdfnodrcpffxubxdvvmbpjlnwah/einSwitch003_Prefix.pch.gch
+t1333175080
+s15814064
+
+NeinSwitch003-Info.plist
+c000000004F769DFF000000000000038D
+t1333173759
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies355290905#355290905#0(0"0(0#1#0"8666389056#0"0#
+
+CCompileC build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/Objects-normal/i386/FirstViewController.o /Users/oliviabornstein/Documents/einSwitch003/Classes/FirstViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s355290905.488827
+e355290905.612872
+r1
+xCompileC
+xbuild/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/Objects-normal/i386/FirstViewController.o
+x/Users/oliviabornstein/Documents/einSwitch003/Classes/FirstViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/oliviabornstein/Documents/einSwitch003/Classes/FirstViewController.m: In function '-[FirstViewController connectionDidFinishLoading:]':
+o/Users/oliviabornstein/Documents/einSwitch003/Classes/FirstViewController.m:57: warning: 'NSString' may not respond to '-JSONValue'
+o/Users/oliviabornstein/Documents/einSwitch003/Classes/FirstViewController.m:57: warning: (Messages without a matching method signature
+o/Users/oliviabornstein/Documents/einSwitch003/Classes/FirstViewController.m:57: warning: will be assumed to return 'id' and accept
+o/Users/oliviabornstein/Documents/einSwitch003/Classes/FirstViewController.m:57: warning: '...' as arguments.)
+o/Users/oliviabornstein/Documents/einSwitch003/Classes/FirstViewController.m:61: warning: 'NSArray' may not respond to '-JSONValue'
+o/Users/oliviabornstein/Documents/einSwitch003/Classes/FirstViewController.m:62: warning: 'NSArray' may not respond to '-JSONValue'
+o/Users/oliviabornstein/Documents/einSwitch003/Classes/FirstViewController.m:63: warning: 'NSArray' may not respond to '-JSONValue'
+o/Users/oliviabornstein/Documents/einSwitch003/Classes/FirstViewController.m:64: warning: 'NSArray' may not respond to '-JSONValue'
+o/Users/oliviabornstein/Documents/einSwitch003/Classes/FirstViewController.m:65: warning: 'NSArray' may not respond to '-JSONValue'
+o/Users/oliviabornstein/Documents/einSwitch003/Classes/FirstViewController.m:66: warning: 'NSArray' may not respond to '-JSONValue'
+o/Users/oliviabornstein/Documents/einSwitch003/Classes/FirstViewController.m:67: warning: 'NSArray' may not respond to '-JSONValue'
+o/Users/oliviabornstein/Documents/einSwitch003/Classes/FirstViewController.m:68: warning: 'NSArray' may not respond to '-JSONValue'
+o/Users/oliviabornstein/Documents/einSwitch003/Classes/FirstViewController.m:69: warning: 'NSArray' may not respond to '-JSONValue'
+o/Users/oliviabornstein/Documents/einSwitch003/Classes/FirstViewController.m:70: warning: 'NSArray' may not respond to '-JSONValue'
+o/Users/oliviabornstein/Documents/einSwitch003/Classes/FirstViewController.m:71: warning: 'NSArray' may not respond to '-JSONValue'
+o/Users/oliviabornstein/Documents/einSwitch003/Classes/FirstViewController.m:71: warning: unused variable 'paraller'
+o/Users/oliviabornstein/Documents/einSwitch003/Classes/FirstViewController.m:70: warning: unused variable 'e32'
+o/Users/oliviabornstein/Documents/einSwitch003/Classes/FirstViewController.m:69: warning: unused variable 'e31'
+o/Users/oliviabornstein/Documents/einSwitch003/Classes/FirstViewController.m:68: warning: unused variable 'h22'
+o/Users/oliviabornstein/Documents/einSwitch003/Classes/FirstViewController.m:67: warning: unused variable 'h21'
+o/Users/oliviabornstein/Documents/einSwitch003/Classes/FirstViewController.m:66: warning: unused variable 'e22'
+o/Users/oliviabornstein/Documents/einSwitch003/Classes/FirstViewController.m:65: warning: unused variable 'e21'
+o/Users/oliviabornstein/Documents/einSwitch003/Classes/FirstViewController.m:64: warning: unused variable 'h12'
+o/Users/oliviabornstein/Documents/einSwitch003/Classes/FirstViewController.m:63: warning: unused variable 'h11'
+o/Users/oliviabornstein/Documents/einSwitch003/Classes/FirstViewController.m:62: warning: unused variable 'e12'
+o/Users/oliviabornstein/Documents/einSwitch003/Classes/FirstViewController.m:61: warning: unused variable 'e11'
+lSLF07#2@83"Compile /Users/oliviabornstein/Documents/einSwitch003/Classes/FirstViewController.m355290905#355290905#0(3318"/Users/oliviabornstein/Documents/einSwitch003/Classes/FirstViewController.m: In function '-[FirstViewController connectionDidFinishLoading:]':/Users/oliviabornstein/Documents/einSwitch003/Classes/FirstViewController.m:57: warning: 'NSString' may not respond to '-JSONValue'/Users/oliviabornstein/Documents/einSwitch003/Classes/FirstViewController.m:57: warning: (Messages without a matching method signature/Users/oliviabornstein/Documents/einSwitch003/Classes/FirstViewController.m:57: warning: will be assumed to return 'id' and accept/Users/oliviabornstein/Documents/einSwitch003/Classes/FirstViewController.m:57: warning: '...' as arguments.)/Users/oliviabornstein/Documents/einSwitch003/Classes/FirstViewController.m:61: warning: 'NSArray' may not respond to '-JSONValue'/Users/oliviabornstein/Documents/einSwitch003/Classes/FirstViewController.m:62: warning: 'NSArray' may not respond to '-JSONValue'/Users/oliviabornstein/Documents/einSwitch003/Classes/FirstViewController.m:63: warning: 'NSArray' may not respond to '-JSONValue'/Users/oliviabornstein/Documents/einSwitch003/Classes/FirstViewController.m:64: warning: 'NSArray' may not respond to '-JSONValue'/Users/oliviabornstein/Documents/einSwitch003/Classes/FirstViewController.m:65: warning: 'NSArray' may not respond to '-JSONValue'/Users/oliviabornstein/Documents/einSwitch003/Classes/FirstViewController.m:66: warning: 'NSArray' may not respond to '-JSONValue'/Users/oliviabornstein/Documents/einSwitch003/Classes/FirstViewController.m:67: warning: 'NSArray' may not respond to '-JSONValue'/Users/oliviabornstein/Documents/einSwitch003/Classes/FirstViewController.m:68: warning: 'NSArray' may not respond to '-JSONValue'/Users/oliviabornstein/Documents/einSwitch003/Classes/FirstViewController.m:69: warning: 'NSArray' may not respond to '-JSONValue'/Users/oliviabornstein/Documents/einSwitch003/Classes/FirstViewController.m:70: warning: 'NSArray' may not respond to '-JSONValue'/Users/oliviabornstein/Documents/einSwitch003/Classes/FirstViewController.m:71: warning: 'NSArray' may not respond to '-JSONValue'/Users/oliviabornstein/Documents/einSwitch003/Classes/FirstViewController.m:71: warning: unused variable 'paraller'/Users/oliviabornstein/Documents/einSwitch003/Classes/FirstViewController.m:70: warning: unused variable 'e32'/Users/oliviabornstein/Documents/einSwitch003/Classes/FirstViewController.m:69: warning: unused variable 'e31'/Users/oliviabornstein/Documents/einSwitch003/Classes/FirstViewController.m:68: warning: unused variable 'h22'/Users/oliviabornstein/Documents/einSwitch003/Classes/FirstViewController.m:67: warning: unused variable 'h21'/Users/oliviabornstein/Documents/einSwitch003/Classes/FirstViewController.m:66: warning: unused variable 'e22'/Users/oliviabornstein/Documents/einSwitch003/Classes/FirstViewController.m:65: warning: unused variable 'e21'/Users/oliviabornstein/Documents/einSwitch003/Classes/FirstViewController.m:64: warning: unused variable 'h12'/Users/oliviabornstein/Documents/einSwitch003/Classes/FirstViewController.m:63: warning: unused variable 'h11'/Users/oliviabornstein/Documents/einSwitch003/Classes/FirstViewController.m:62: warning: unused variable 'e12'/Users/oliviabornstein/Documents/einSwitch003/Classes/FirstViewController.m:61: warning: unused variable 'e11'24(22@42"'NSString' may not respond to '-JSONValue'355290905#143#132#0(6@75"/Users/oliviabornstein/Documents/einSwitch003/Classes/FirstViewController.m355290905#57#0#57#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)355290905#275#135#0(6@75"/Users/oliviabornstein/Documents/einSwitch003/Classes/FirstViewController.m355290905#57#0#57#0#0"0(22@41"'NSArray' may not respond to '-JSONValue'355290905#651#131#0(6@75"/Users/oliviabornstein/Documents/einSwitch003/Classes/FirstViewController.m355290905#61#0#61#0#26"'*' may not respond to '*'0(22@41"'NSArray' may not respond to '-JSONValue'355290905#782#131#0(6@75"/Users/oliviabornstein/Documents/einSwitch003/Classes/FirstViewController.m355290905#62#0#62#0#26"'*' may not respond to '*'0(22@41"'NSArray' may not respond to '-JSONValue'355290905#913#131#0(6@75"/Users/oliviabornstein/Documents/einSwitch003/Classes/FirstViewController.m355290905#63#0#63#0#26"'*' may not respond to '*'0(22@41"'NSArray' may not respond to '-JSONValue'355290905#1044#131#0(6@75"/Users/oliviabornstein/Documents/einSwitch003/Classes/FirstViewController.m355290905#64#0#64#0#26"'*' may not respond to '*'0(22@41"'NSArray' may not respond to '-JSONValue'355290905#1175#131#0(6@75"/Users/oliviabornstein/Documents/einSwitch003/Classes/FirstViewController.m355290905#65#0#65#0#26"'*' may not respond to '*'0(22@41"'NSArray' may not respond to '-JSONValue'355290905#1306#131#0(6@75"/Users/oliviabornstein/Documents/einSwitch003/Classes/FirstViewController.m355290905#66#0#66#0#26"'*' may not respond to '*'0(22@41"'NSArray' may not respond to '-JSONValue'355290905#1437#131#0(6@75"/Users/oliviabornstein/Documents/einSwitch003/Classes/FirstViewController.m355290905#67#0#67#0#26"'*' may not respond to '*'0(22@41"'NSArray' may not respond to '-JSONValue'355290905#1568#131#0(6@75"/Users/oliviabornstein/Documents/einSwitch003/Classes/FirstViewController.m355290905#68#0#68#0#26"'*' may not respond to '*'0(22@41"'NSArray' may not respond to '-JSONValue'355290905#1699#131#0(6@75"/Users/oliviabornstein/Documents/einSwitch003/Classes/FirstViewController.m355290905#69#0#69#0#26"'*' may not respond to '*'0(22@41"'NSArray' may not respond to '-JSONValue'355290905#1830#131#0(6@75"/Users/oliviabornstein/Documents/einSwitch003/Classes/FirstViewController.m355290905#70#0#70#0#26"'*' may not respond to '*'0(22@41"'NSArray' may not respond to '-JSONValue'355290905#1961#131#0(6@75"/Users/oliviabornstein/Documents/einSwitch003/Classes/FirstViewController.m355290905#71#0#71#0#26"'*' may not respond to '*'0(22@26"Unused variable 'paraller'355290905#2092#116#0(6@75"/Users/oliviabornstein/Documents/einSwitch003/Classes/FirstViewController.m355290905#71#0#71#0#19"unused variable '*'0(22@21"Unused variable 'e32'355290905#2208#111#0(6@75"/Users/oliviabornstein/Documents/einSwitch003/Classes/FirstViewController.m355290905#70#0#70#0#19"unused variable '*'0(22@21"Unused variable 'e31'355290905#2319#111#0(6@75"/Users/oliviabornstein/Documents/einSwitch003/Classes/FirstViewController.m355290905#69#0#69#0#19"unused variable '*'0(22@21"Unused variable 'h22'355290905#2430#111#0(6@75"/Users/oliviabornstein/Documents/einSwitch003/Classes/FirstViewController.m355290905#68#0#68#0#19"unused variable '*'0(22@21"Unused variable 'h21'355290905#2541#111#0(6@75"/Users/oliviabornstein/Documents/einSwitch003/Classes/FirstViewController.m355290905#67#0#67#0#19"unused variable '*'0(22@21"Unused variable 'e22'355290905#2652#111#0(6@75"/Users/oliviabornstein/Documents/einSwitch003/Classes/FirstViewController.m355290905#66#0#66#0#19"unused variable '*'0(22@21"Unused variable 'e21'355290905#2763#111#0(6@75"/Users/oliviabornstein/Documents/einSwitch003/Classes/FirstViewController.m355290905#65#0#65#0#19"unused variable '*'0(22@21"Unused variable 'h12'355290905#2874#111#0(6@75"/Users/oliviabornstein/Documents/einSwitch003/Classes/FirstViewController.m355290905#64#0#64#0#19"unused variable '*'0(22@21"Unused variable 'h11'355290905#2985#111#0(6@75"/Users/oliviabornstein/Documents/einSwitch003/Classes/FirstViewController.m355290905#63#0#63#0#19"unused variable '*'0(22@21"Unused variable 'e12'355290905#3096#111#0(6@75"/Users/oliviabornstein/Documents/einSwitch003/Classes/FirstViewController.m355290905#62#0#62#0#19"unused variable '*'0(22@21"Unused variable 'e11'355290905#3207#111#0(6@75"/Users/oliviabornstein/Documents/einSwitch003/Classes/FirstViewController.m355290905#61#0#61#0#19"unused variable '*'0(0#0#75"/Users/oliviabornstein/Documents/einSwitch003/Classes/FirstViewController.m8623129568#2129"    cd /Users/oliviabornstein/Documents/einSwitch003    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/oliviabornstein/Documents/einSwitch003/build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/einSwitch003-generated-files.hmap -I/Users/oliviabornstein/Documents/einSwitch003/build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/einSwitch003-own-target-headers.hmap -I/Users/oliviabornstein/Documents/einSwitch003/build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/einSwitch003-all-target-headers.hmap -iquote /Users/oliviabornstein/Documents/einSwitch003/build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/einSwitch003-project-headers.hmap -F/Users/oliviabornstein/Documents/einSwitch003/build/Debug-iphonesimulator -I/Users/oliviabornstein/Documents/einSwitch003/build/Debug-iphonesimulator/include -I/Users/oliviabornstein/Documents/einSwitch003/build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/DerivedSources/i386 -I/Users/oliviabornstein/Documents/einSwitch003/build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/DerivedSources -include /var/folders/Ls/LsjwyMeDFbKoXB1c+WxwHk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/einSwitch003_Prefix-fjdfnodrcpffxubxdvvmbpjlnwah/einSwitch003_Prefix.pch -c /Users/oliviabornstein/Documents/einSwitch003/Classes/FirstViewController.m -o /Users/oliviabornstein/Documents/einSwitch003/build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/Objects-normal/i386/FirstViewController.o0#
+
+CCompileC build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/Objects-normal/i386/NSObject+SBJSON.o /Users/oliviabornstein/Documents/einSwitch003/NSObject+SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s355118669.253777
+e355118669.386740
+r1
+xCompileC
+xbuild/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/Objects-normal/i386/NSObject+SBJSON.o
+x/Users/oliviabornstein/Documents/einSwitch003/NSObject+SBJSON.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/oliviabornstein/Documents/einSwitch003/NSObject+SBJSON.m355118669#355118669#0(0"0(0#0#63"/Users/oliviabornstein/Documents/einSwitch003/NSObject+SBJSON.m8626093280#2113"    cd /Users/oliviabornstein/Documents/einSwitch003    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/oliviabornstein/Documents/einSwitch003/build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/einSwitch003-generated-files.hmap -I/Users/oliviabornstein/Documents/einSwitch003/build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/einSwitch003-own-target-headers.hmap -I/Users/oliviabornstein/Documents/einSwitch003/build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/einSwitch003-all-target-headers.hmap -iquote /Users/oliviabornstein/Documents/einSwitch003/build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/einSwitch003-project-headers.hmap -F/Users/oliviabornstein/Documents/einSwitch003/build/Debug-iphonesimulator -I/Users/oliviabornstein/Documents/einSwitch003/build/Debug-iphonesimulator/include -I/Users/oliviabornstein/Documents/einSwitch003/build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/DerivedSources/i386 -I/Users/oliviabornstein/Documents/einSwitch003/build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/DerivedSources -include /var/folders/Ls/LsjwyMeDFbKoXB1c+WxwHk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/einSwitch003_Prefix-fjdfnodrcpffxubxdvvmbpjlnwah/einSwitch003_Prefix.pch -c /Users/oliviabornstein/Documents/einSwitch003/NSObject+SBJSON.m -o /Users/oliviabornstein/Documents/einSwitch003/build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/Objects-normal/i386/NSObject+SBJSON.o0#
+
+CCompileC build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/Objects-normal/i386/NSString+SBJSON.o /Users/oliviabornstein/Documents/einSwitch003/NSString+SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s355118669.387150
+e355118669.451392
+r1
+xCompileC
+xbuild/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/Objects-normal/i386/NSString+SBJSON.o
+x/Users/oliviabornstein/Documents/einSwitch003/NSString+SBJSON.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/oliviabornstein/Documents/einSwitch003/NSString+SBJSON.m355118669#355118669#0(0"0(0#0#63"/Users/oliviabornstein/Documents/einSwitch003/NSString+SBJSON.m8628374912#2113"    cd /Users/oliviabornstein/Documents/einSwitch003    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/oliviabornstein/Documents/einSwitch003/build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/einSwitch003-generated-files.hmap -I/Users/oliviabornstein/Documents/einSwitch003/build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/einSwitch003-own-target-headers.hmap -I/Users/oliviabornstein/Documents/einSwitch003/build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/einSwitch003-all-target-headers.hmap -iquote /Users/oliviabornstein/Documents/einSwitch003/build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/einSwitch003-project-headers.hmap -F/Users/oliviabornstein/Documents/einSwitch003/build/Debug-iphonesimulator -I/Users/oliviabornstein/Documents/einSwitch003/build/Debug-iphonesimulator/include -I/Users/oliviabornstein/Documents/einSwitch003/build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/DerivedSources/i386 -I/Users/oliviabornstein/Documents/einSwitch003/build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/DerivedSources -include /var/folders/Ls/LsjwyMeDFbKoXB1c+WxwHk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/einSwitch003_Prefix-fjdfnodrcpffxubxdvvmbpjlnwah/einSwitch003_Prefix.pch -c /Users/oliviabornstein/Documents/einSwitch003/NSString+SBJSON.m -o /Users/oliviabornstein/Documents/einSwitch003/build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/Objects-normal/i386/NSString+SBJSON.o0#
+
+CCompileC build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/Objects-normal/i386/SBJsonBase.o /Users/oliviabornstein/Documents/einSwitch003/SBJsonBase.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s355118669.451500
+e355118669.539983
+r1
+xCompileC
+xbuild/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/Objects-normal/i386/SBJsonBase.o
+x/Users/oliviabornstein/Documents/einSwitch003/SBJsonBase.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/oliviabornstein/Documents/einSwitch003/SBJsonBase.m355118669#355118669#0(0"0(0#0#58"/Users/oliviabornstein/Documents/einSwitch003/SBJsonBase.m8628228320#2103"    cd /Users/oliviabornstein/Documents/einSwitch003    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/oliviabornstein/Documents/einSwitch003/build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/einSwitch003-generated-files.hmap -I/Users/oliviabornstein/Documents/einSwitch003/build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/einSwitch003-own-target-headers.hmap -I/Users/oliviabornstein/Documents/einSwitch003/build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/einSwitch003-all-target-headers.hmap -iquote /Users/oliviabornstein/Documents/einSwitch003/build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/einSwitch003-project-headers.hmap -F/Users/oliviabornstein/Documents/einSwitch003/build/Debug-iphonesimulator -I/Users/oliviabornstein/Documents/einSwitch003/build/Debug-iphonesimulator/include -I/Users/oliviabornstein/Documents/einSwitch003/build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/DerivedSources/i386 -I/Users/oliviabornstein/Documents/einSwitch003/build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/DerivedSources -include /var/folders/Ls/LsjwyMeDFbKoXB1c+WxwHk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/einSwitch003_Prefix-fjdfnodrcpffxubxdvvmbpjlnwah/einSwitch003_Prefix.pch -c /Users/oliviabornstein/Documents/einSwitch003/SBJsonBase.m -o /Users/oliviabornstein/Documents/einSwitch003/build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/Objects-normal/i386/SBJsonBase.o0#
+
+CCompileC build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/Objects-normal/i386/SBJsonParser.o /Users/oliviabornstein/Documents/einSwitch003/SBJsonParser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s355118669.540092
+e355118669.804081
+r1
+xCompileC
+xbuild/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/Objects-normal/i386/SBJsonParser.o
+x/Users/oliviabornstein/Documents/einSwitch003/SBJsonParser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/oliviabornstein/Documents/einSwitch003/SBJsonParser.m355118669#355118669#0(0"0(0#0#60"/Users/oliviabornstein/Documents/einSwitch003/SBJsonParser.m8623825216#2107"    cd /Users/oliviabornstein/Documents/einSwitch003    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/oliviabornstein/Documents/einSwitch003/build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/einSwitch003-generated-files.hmap -I/Users/oliviabornstein/Documents/einSwitch003/build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/einSwitch003-own-target-headers.hmap -I/Users/oliviabornstein/Documents/einSwitch003/build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/einSwitch003-all-target-headers.hmap -iquote /Users/oliviabornstein/Documents/einSwitch003/build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/einSwitch003-project-headers.hmap -F/Users/oliviabornstein/Documents/einSwitch003/build/Debug-iphonesimulator -I/Users/oliviabornstein/Documents/einSwitch003/build/Debug-iphonesimulator/include -I/Users/oliviabornstein/Documents/einSwitch003/build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/DerivedSources/i386 -I/Users/oliviabornstein/Documents/einSwitch003/build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/DerivedSources -include /var/folders/Ls/LsjwyMeDFbKoXB1c+WxwHk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/einSwitch003_Prefix-fjdfnodrcpffxubxdvvmbpjlnwah/einSwitch003_Prefix.pch -c /Users/oliviabornstein/Documents/einSwitch003/SBJsonParser.m -o /Users/oliviabornstein/Documents/einSwitch003/build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/Objects-normal/i386/SBJsonParser.o0#
+
+CCompileC build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/Objects-normal/i386/SBJsonWriter.o /Users/oliviabornstein/Documents/einSwitch003/SBJsonWriter.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s355118669.651818
+e355118669.792059
+r1
+xCompileC
+xbuild/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/Objects-normal/i386/SBJsonWriter.o
+x/Users/oliviabornstein/Documents/einSwitch003/SBJsonWriter.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/oliviabornstein/Documents/einSwitch003/SBJsonWriter.m355118669#355118669#0(0"0(0#0#60"/Users/oliviabornstein/Documents/einSwitch003/SBJsonWriter.m8614809152#2107"    cd /Users/oliviabornstein/Documents/einSwitch003    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/oliviabornstein/Documents/einSwitch003/build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/einSwitch003-generated-files.hmap -I/Users/oliviabornstein/Documents/einSwitch003/build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/einSwitch003-own-target-headers.hmap -I/Users/oliviabornstein/Documents/einSwitch003/build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/einSwitch003-all-target-headers.hmap -iquote /Users/oliviabornstein/Documents/einSwitch003/build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/einSwitch003-project-headers.hmap -F/Users/oliviabornstein/Documents/einSwitch003/build/Debug-iphonesimulator -I/Users/oliviabornstein/Documents/einSwitch003/build/Debug-iphonesimulator/include -I/Users/oliviabornstein/Documents/einSwitch003/build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/DerivedSources/i386 -I/Users/oliviabornstein/Documents/einSwitch003/build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/DerivedSources -include /var/folders/Ls/LsjwyMeDFbKoXB1c+WxwHk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/einSwitch003_Prefix-fjdfnodrcpffxubxdvvmbpjlnwah/einSwitch003_Prefix.pch -c /Users/oliviabornstein/Documents/einSwitch003/SBJsonWriter.m -o /Users/oliviabornstein/Documents/einSwitch003/build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/Objects-normal/i386/SBJsonWriter.o0#
+
+CCompileC build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/Objects-normal/i386/SecondViewController.o /Users/oliviabornstein/Documents/einSwitch003/Classes/SecondViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s355290504.859752
+e355290505.193295
+r1
+xCompileC
+xbuild/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/Objects-normal/i386/SecondViewController.o
+x/Users/oliviabornstein/Documents/einSwitch003/Classes/SecondViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/oliviabornstein/Documents/einSwitch003/Classes/SecondViewController.m: In function '-[SecondViewController connectionDidFinishLoading:]':
+o/Users/oliviabornstein/Documents/einSwitch003/Classes/SecondViewController.m:60: warning: 'NSArray' may not respond to '-JSONValue'
+o/Users/oliviabornstein/Documents/einSwitch003/Classes/SecondViewController.m:60: warning: (Messages without a matching method signature
+o/Users/oliviabornstein/Documents/einSwitch003/Classes/SecondViewController.m:60: warning: will be assumed to return 'id' and accept
+o/Users/oliviabornstein/Documents/einSwitch003/Classes/SecondViewController.m:60: warning: '...' as arguments.)
+o/Users/oliviabornstein/Documents/einSwitch003/Classes/SecondViewController.m:61: warning: 'NSArray' may not respond to '-JSONValue'
+o/Users/oliviabornstein/Documents/einSwitch003/Classes/SecondViewController.m:62: warning: 'NSArray' may not respond to '-JSONValue'
+o/Users/oliviabornstein/Documents/einSwitch003/Classes/SecondViewController.m:63: warning: 'NSArray' may not respond to '-JSONValue'
+o/Users/oliviabornstein/Documents/einSwitch003/Classes/SecondViewController.m:64: warning: 'NSArray' may not respond to '-JSONValue'
+o/Users/oliviabornstein/Documents/einSwitch003/Classes/SecondViewController.m:65: warning: 'NSArray' may not respond to '-JSONValue'
+o/Users/oliviabornstein/Documents/einSwitch003/Classes/SecondViewController.m:66: warning: 'NSArray' may not respond to '-JSONValue'
+o/Users/oliviabornstein/Documents/einSwitch003/Classes/SecondViewController.m:67: warning: 'NSArray' may not respond to '-JSONValue'
+o/Users/oliviabornstein/Documents/einSwitch003/Classes/SecondViewController.m:68: warning: 'NSArray' may not respond to '-JSONValue'
+o/Users/oliviabornstein/Documents/einSwitch003/Classes/SecondViewController.m:69: warning: 'NSArray' may not respond to '-JSONValue'
+o/Users/oliviabornstein/Documents/einSwitch003/Classes/SecondViewController.m:70: warning: 'NSArray' may not respond to '-JSONValue'
+o/Users/oliviabornstein/Documents/einSwitch003/Classes/SecondViewController.m:70: warning: unused variable 'paraller'
+lSLF07#2@84"Compile /Users/oliviabornstein/Documents/einSwitch003/Classes/SecondViewController.m355290504#355290505#0(2093"/Users/oliviabornstein/Documents/einSwitch003/Classes/SecondViewController.m: In function '-[SecondViewController connectionDidFinishLoading:]':/Users/oliviabornstein/Documents/einSwitch003/Classes/SecondViewController.m:60: warning: 'NSArray' may not respond to '-JSONValue'/Users/oliviabornstein/Documents/einSwitch003/Classes/SecondViewController.m:60: warning: (Messages without a matching method signature/Users/oliviabornstein/Documents/einSwitch003/Classes/SecondViewController.m:60: warning: will be assumed to return 'id' and accept/Users/oliviabornstein/Documents/einSwitch003/Classes/SecondViewController.m:60: warning: '...' as arguments.)/Users/oliviabornstein/Documents/einSwitch003/Classes/SecondViewController.m:61: warning: 'NSArray' may not respond to '-JSONValue'/Users/oliviabornstein/Documents/einSwitch003/Classes/SecondViewController.m:62: warning: 'NSArray' may not respond to '-JSONValue'/Users/oliviabornstein/Documents/einSwitch003/Classes/SecondViewController.m:63: warning: 'NSArray' may not respond to '-JSONValue'/Users/oliviabornstein/Documents/einSwitch003/Classes/SecondViewController.m:64: warning: 'NSArray' may not respond to '-JSONValue'/Users/oliviabornstein/Documents/einSwitch003/Classes/SecondViewController.m:65: warning: 'NSArray' may not respond to '-JSONValue'/Users/oliviabornstein/Documents/einSwitch003/Classes/SecondViewController.m:66: warning: 'NSArray' may not respond to '-JSONValue'/Users/oliviabornstein/Documents/einSwitch003/Classes/SecondViewController.m:67: warning: 'NSArray' may not respond to '-JSONValue'/Users/oliviabornstein/Documents/einSwitch003/Classes/SecondViewController.m:68: warning: 'NSArray' may not respond to '-JSONValue'/Users/oliviabornstein/Documents/einSwitch003/Classes/SecondViewController.m:69: warning: 'NSArray' may not respond to '-JSONValue'/Users/oliviabornstein/Documents/einSwitch003/Classes/SecondViewController.m:70: warning: 'NSArray' may not respond to '-JSONValue'/Users/oliviabornstein/Documents/einSwitch003/Classes/SecondViewController.m:70: warning: unused variable 'paraller'13(22@41"'NSArray' may not respond to '-JSONValue'355290504#145#132#0(6@76"/Users/oliviabornstein/Documents/einSwitch003/Classes/SecondViewController.m355290504#60#0#60#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)355290504#277#136#0(6@76"/Users/oliviabornstein/Documents/einSwitch003/Classes/SecondViewController.m355290504#60#0#60#0#0"0(22@41"'NSArray' may not respond to '-JSONValue'355290504#656#132#0(6@76"/Users/oliviabornstein/Documents/einSwitch003/Classes/SecondViewController.m355290504#61#0#61#0#26"'*' may not respond to '*'0(22@41"'NSArray' may not respond to '-JSONValue'355290504#788#132#0(6@76"/Users/oliviabornstein/Documents/einSwitch003/Classes/SecondViewController.m355290504#62#0#62#0#26"'*' may not respond to '*'0(22@41"'NSArray' may not respond to '-JSONValue'355290504#920#132#0(6@76"/Users/oliviabornstein/Documents/einSwitch003/Classes/SecondViewController.m355290504#63#0#63#0#26"'*' may not respond to '*'0(22@41"'NSArray' may not respond to '-JSONValue'355290504#1052#132#0(6@76"/Users/oliviabornstein/Documents/einSwitch003/Classes/SecondViewController.m355290504#64#0#64#0#26"'*' may not respond to '*'0(22@41"'NSArray' may not respond to '-JSONValue'355290504#1184#132#0(6@76"/Users/oliviabornstein/Documents/einSwitch003/Classes/SecondViewController.m355290504#65#0#65#0#26"'*' may not respond to '*'0(22@41"'NSArray' may not respond to '-JSONValue'355290504#1316#132#0(6@76"/Users/oliviabornstein/Documents/einSwitch003/Classes/SecondViewController.m355290504#66#0#66#0#26"'*' may not respond to '*'0(22@41"'NSArray' may not respond to '-JSONValue'355290504#1448#132#0(6@76"/Users/oliviabornstein/Documents/einSwitch003/Classes/SecondViewController.m355290504#67#0#67#0#26"'*' may not respond to '*'0(22@41"'NSArray' may not respond to '-JSONValue'355290504#1580#132#0(6@76"/Users/oliviabornstein/Documents/einSwitch003/Classes/SecondViewController.m355290504#68#0#68#0#26"'*' may not respond to '*'0(22@41"'NSArray' may not respond to '-JSONValue'355290504#1712#132#0(6@76"/Users/oliviabornstein/Documents/einSwitch003/Classes/SecondViewController.m355290504#69#0#69#0#26"'*' may not respond to '*'0(22@41"'NSArray' may not respond to '-JSONValue'355290504#1844#132#0(6@76"/Users/oliviabornstein/Documents/einSwitch003/Classes/SecondViewController.m355290504#70#0#70#0#26"'*' may not respond to '*'0(22@26"Unused variable 'paraller'355290504#1976#117#0(6@76"/Users/oliviabornstein/Documents/einSwitch003/Classes/SecondViewController.m355290504#70#0#70#0#19"unused variable '*'0(0#0#76"/Users/oliviabornstein/Documents/einSwitch003/Classes/SecondViewController.m8612094816#2131"    cd /Users/oliviabornstein/Documents/einSwitch003    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/oliviabornstein/Documents/einSwitch003/build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/einSwitch003-generated-files.hmap -I/Users/oliviabornstein/Documents/einSwitch003/build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/einSwitch003-own-target-headers.hmap -I/Users/oliviabornstein/Documents/einSwitch003/build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/einSwitch003-all-target-headers.hmap -iquote /Users/oliviabornstein/Documents/einSwitch003/build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/einSwitch003-project-headers.hmap -F/Users/oliviabornstein/Documents/einSwitch003/build/Debug-iphonesimulator -I/Users/oliviabornstein/Documents/einSwitch003/build/Debug-iphonesimulator/include -I/Users/oliviabornstein/Documents/einSwitch003/build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/DerivedSources/i386 -I/Users/oliviabornstein/Documents/einSwitch003/build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/DerivedSources -include /var/folders/Ls/LsjwyMeDFbKoXB1c+WxwHk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/einSwitch003_Prefix-fjdfnodrcpffxubxdvvmbpjlnwah/einSwitch003_Prefix.pch -c /Users/oliviabornstein/Documents/einSwitch003/Classes/SecondViewController.m -o /Users/oliviabornstein/Documents/einSwitch003/build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/Objects-normal/i386/SecondViewController.o0#
+
+CCompileC build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/Objects-normal/i386/einSwitch003AppDelegate.o /Users/oliviabornstein/Documents/einSwitch003/Classes/einSwitch003AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s354987148.877390
+e354987149.010216
+r1
+xCompileC
+xbuild/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/Objects-normal/i386/einSwitch003AppDelegate.o
+x/Users/oliviabornstein/Documents/einSwitch003/Classes/einSwitch003AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/oliviabornstein/Documents/einSwitch003/Classes/einSwitch003AppDelegate.m354987148#354987149#0(0"0(0#0#79"/Users/oliviabornstein/Documents/einSwitch003/Classes/einSwitch003AppDelegate.m8619573312#2137"    cd /Users/oliviabornstein/Documents/einSwitch003    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/oliviabornstein/Documents/einSwitch003/build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/einSwitch003-generated-files.hmap -I/Users/oliviabornstein/Documents/einSwitch003/build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/einSwitch003-own-target-headers.hmap -I/Users/oliviabornstein/Documents/einSwitch003/build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/einSwitch003-all-target-headers.hmap -iquote /Users/oliviabornstein/Documents/einSwitch003/build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/einSwitch003-project-headers.hmap -F/Users/oliviabornstein/Documents/einSwitch003/build/Debug-iphonesimulator -I/Users/oliviabornstein/Documents/einSwitch003/build/Debug-iphonesimulator/include -I/Users/oliviabornstein/Documents/einSwitch003/build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/DerivedSources/i386 -I/Users/oliviabornstein/Documents/einSwitch003/build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/DerivedSources -include /var/folders/Ls/LsjwyMeDFbKoXB1c+WxwHk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/einSwitch003_Prefix-fjdfnodrcpffxubxdvvmbpjlnwah/einSwitch003_Prefix.pch -c /Users/oliviabornstein/Documents/einSwitch003/Classes/einSwitch003AppDelegate.m -o /Users/oliviabornstein/Documents/einSwitch003/build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/Objects-normal/i386/einSwitch003AppDelegate.o0#
+
+CCompileC build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/Objects-normal/i386/main.o /Users/oliviabornstein/Documents/einSwitch003/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s354867880.278614
+e354867880.366741
+r1
+xCompileC
+xbuild/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/Objects-normal/i386/main.o
+x/Users/oliviabornstein/Documents/einSwitch003/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@60"Compile /Users/oliviabornstein/Documents/einSwitch003/main.m354867880#354867880#0(0"0(0#0#52"/Users/oliviabornstein/Documents/einSwitch003/main.m8616311648#2091"    cd /Users/oliviabornstein/Documents/einSwitch003    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/oliviabornstein/Documents/einSwitch003/build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/einSwitch003-generated-files.hmap -I/Users/oliviabornstein/Documents/einSwitch003/build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/einSwitch003-own-target-headers.hmap -I/Users/oliviabornstein/Documents/einSwitch003/build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/einSwitch003-all-target-headers.hmap -iquote /Users/oliviabornstein/Documents/einSwitch003/build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/einSwitch003-project-headers.hmap -F/Users/oliviabornstein/Documents/einSwitch003/build/Debug-iphonesimulator -I/Users/oliviabornstein/Documents/einSwitch003/build/Debug-iphonesimulator/include -I/Users/oliviabornstein/Documents/einSwitch003/build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/DerivedSources/i386 -I/Users/oliviabornstein/Documents/einSwitch003/build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/DerivedSources -include /var/folders/Ls/LsjwyMeDFbKoXB1c+WxwHk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/einSwitch003_Prefix-fjdfnodrcpffxubxdvvmbpjlnwah/einSwitch003_Prefix.pch -c /Users/oliviabornstein/Documents/einSwitch003/main.m -o /Users/oliviabornstein/Documents/einSwitch003/build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/oliviabornstein/Documents/einSwitch003/Classes/FirstViewController.xib
+s355214171.275468
+e355214171.807787
+r1
+xCompileXIB
+x/Users/oliviabornstein/Documents/einSwitch003/Classes/FirstViewController.xib
+lSLF07#2@42"CompileXIB Classes/FirstViewController.xib355214171#355214171#0(0"0(0#0#77"/Users/oliviabornstein/Documents/einSwitch003/Classes/FirstViewController.xib8632470560#622"    cd /Users/oliviabornstein/Documents/einSwitch003    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/oliviabornstein/Documents/einSwitch003/build/Debug-iphonesimulator/einSwitch003.app/FirstViewController.nib /Users/oliviabornstein/Documents/einSwitch003/Classes/FirstViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/oliviabornstein/Documents/einSwitch003/Classes/SecondViewController.xib
+s355214170.614860
+e355214171.275366
+r1
+xCompileXIB
+x/Users/oliviabornstein/Documents/einSwitch003/Classes/SecondViewController.xib
+lSLF07#2@43"CompileXIB Classes/SecondViewController.xib355214170#355214171#0(0"0(0#0#78"/Users/oliviabornstein/Documents/einSwitch003/Classes/SecondViewController.xib8632333856#624"    cd /Users/oliviabornstein/Documents/einSwitch003    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/oliviabornstein/Documents/einSwitch003/build/Debug-iphonesimulator/einSwitch003.app/SecondViewController.nib /Users/oliviabornstein/Documents/einSwitch003/Classes/SecondViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/oliviabornstein/Documents/einSwitch003/MainWindow.xib
+s355214170.613567
+e355214171.319967
+r1
+xCompileXIB
+x/Users/oliviabornstein/Documents/einSwitch003/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib355214170#355214171#0(0"0(0#0#60"/Users/oliviabornstein/Documents/einSwitch003/MainWindow.xib8641720160#596"    cd /Users/oliviabornstein/Documents/einSwitch003    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/oliviabornstein/Documents/einSwitch003/build/Debug-iphonesimulator/einSwitch003.app/MainWindow.nib /Users/oliviabornstein/Documents/einSwitch003/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCpResource build/Debug-iphonesimulator/einSwitch003.app/0.jpg 0.jpg
+s355108016.815684
+e355108016.881303
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/einSwitch003.app/0.jpg
+x0.jpg
+lSLF07#2@10"Copy 0.jpg355108016#355108016#0(0"0(0#0#51"/Users/oliviabornstein/Documents/einSwitch003/0.jpg31244169098821736#489"    cd /Users/oliviabornstein/Documents/einSwitch003    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/oliviabornstein/Documents/einSwitch003/0.jpg /Users/oliviabornstein/Documents/einSwitch003/build/Debug-iphonesimulator/einSwitch003.app0#
+
+CCpResource build/Debug-iphonesimulator/einSwitch003.app/1.jpg 1.jpg
+s355108016.816709
+e355108016.850067
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/einSwitch003.app/1.jpg
+x1.jpg
+lSLF07#2@10"Copy 1.jpg355108016#355108016#0(0"0(0#0#51"/Users/oliviabornstein/Documents/einSwitch003/1.jpg8621309440#489"    cd /Users/oliviabornstein/Documents/einSwitch003    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/oliviabornstein/Documents/einSwitch003/1.jpg /Users/oliviabornstein/Documents/einSwitch003/build/Debug-iphonesimulator/einSwitch003.app0#
+
+CCpResource build/Debug-iphonesimulator/einSwitch003.app/2.jpg 2.jpg
+s355108016.818505
+e355108016.881444
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/einSwitch003.app/2.jpg
+x2.jpg
+lSLF07#2@10"Copy 2.jpg355108016#355108016#0(0"0(0#0#51"/Users/oliviabornstein/Documents/einSwitch003/2.jpg8621152832#489"    cd /Users/oliviabornstein/Documents/einSwitch003    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/oliviabornstein/Documents/einSwitch003/2.jpg /Users/oliviabornstein/Documents/einSwitch003/build/Debug-iphonesimulator/einSwitch003.app0#
+
+CCpResource build/Debug-iphonesimulator/einSwitch003.app/3.jpg 3.jpg
+s355108016.819696
+e355108016.881572
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/einSwitch003.app/3.jpg
+x3.jpg
+lSLF07#2@10"Copy 3.jpg355108016#355108016#0(0"0(0#0#51"/Users/oliviabornstein/Documents/einSwitch003/3.jpg8621011968#489"    cd /Users/oliviabornstein/Documents/einSwitch003    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/oliviabornstein/Documents/einSwitch003/3.jpg /Users/oliviabornstein/Documents/einSwitch003/build/Debug-iphonesimulator/einSwitch003.app0#
+
+CCpResource build/Debug-iphonesimulator/einSwitch003.app/4.jpg 4.jpg
+s355108016.822055
+e355108016.881701
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/einSwitch003.app/4.jpg
+x4.jpg
+lSLF07#2@10"Copy 4.jpg355108016#355108016#0(0"0(0#0#51"/Users/oliviabornstein/Documents/einSwitch003/4.jpg8620039488#489"    cd /Users/oliviabornstein/Documents/einSwitch003    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/oliviabornstein/Documents/einSwitch003/4.jpg /Users/oliviabornstein/Documents/einSwitch003/build/Debug-iphonesimulator/einSwitch003.app0#
+
+CCpResource build/Debug-iphonesimulator/einSwitch003.app/5.jpg 5.jpg
+s355108016.823750
+e355108016.882530
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/einSwitch003.app/5.jpg
+x5.jpg
+lSLF07#2@10"Copy 5.jpg355108016#355108016#0(0"0(0#0#51"/Users/oliviabornstein/Documents/einSwitch003/5.jpg8619233632#489"    cd /Users/oliviabornstein/Documents/einSwitch003    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/oliviabornstein/Documents/einSwitch003/5.jpg /Users/oliviabornstein/Documents/einSwitch003/build/Debug-iphonesimulator/einSwitch003.app0#
+
+CCpResource build/Debug-iphonesimulator/einSwitch003.app/6.jpg 6.jpg
+s355108016.825605
+e355108016.870451
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/einSwitch003.app/6.jpg
+x6.jpg
+lSLF07#2@10"Copy 6.jpg355108016#355108016#0(0"0(0#0#51"/Users/oliviabornstein/Documents/einSwitch003/6.jpg8618793696#489"    cd /Users/oliviabornstein/Documents/einSwitch003    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/oliviabornstein/Documents/einSwitch003/6.jpg /Users/oliviabornstein/Documents/einSwitch003/build/Debug-iphonesimulator/einSwitch003.app0#
+
+CCpResource build/Debug-iphonesimulator/einSwitch003.app/7.jpg 7.jpg
+s355108016.831124
+e355108016.870598
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/einSwitch003.app/7.jpg
+x7.jpg
+lSLF07#2@10"Copy 7.jpg355108016#355108016#0(0"0(0#0#51"/Users/oliviabornstein/Documents/einSwitch003/7.jpg8616330176#489"    cd /Users/oliviabornstein/Documents/einSwitch003    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/oliviabornstein/Documents/einSwitch003/7.jpg /Users/oliviabornstein/Documents/einSwitch003/build/Debug-iphonesimulator/einSwitch003.app0#
+
+CCpResource build/Debug-iphonesimulator/einSwitch003.app/8.jpg 8.jpg
+s355108016.834130
+e355108016.870740
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/einSwitch003.app/8.jpg
+x8.jpg
+lSLF07#2@10"Copy 8.jpg355108016#355108016#0(0"0(0#0#51"/Users/oliviabornstein/Documents/einSwitch003/8.jpg8614329408#489"    cd /Users/oliviabornstein/Documents/einSwitch003    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/oliviabornstein/Documents/einSwitch003/8.jpg /Users/oliviabornstein/Documents/einSwitch003/build/Debug-iphonesimulator/einSwitch003.app0#
+
+CCpResource build/Debug-iphonesimulator/einSwitch003.app/9.jpg 9.jpg
+s355108016.841692
+e355108016.870188
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/einSwitch003.app/9.jpg
+x9.jpg
+lSLF07#2@10"Copy 9.jpg355108016#355108016#0(0"0(0#0#51"/Users/oliviabornstein/Documents/einSwitch003/9.jpg8624254144#489"    cd /Users/oliviabornstein/Documents/einSwitch003    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/oliviabornstein/Documents/einSwitch003/9.jpg /Users/oliviabornstein/Documents/einSwitch003/build/Debug-iphonesimulator/einSwitch003.app0#
+
+CGenerateDSYMFile /Users/oliviabornstein/Documents/einSwitch003/build/Debug-iphonesimulator/einSwitch003.app.dSYM /Users/oliviabornstein/Documents/einSwitch003/build/Debug-iphonesimulator/einSwitch003.app/einSwitch003
+s355290905.658897
+e355290905.688194
+r1
+xGenerateDSYMFile
+x/Users/oliviabornstein/Documents/einSwitch003/build/Debug-iphonesimulator/einSwitch003.app.dSYM
+x/Users/oliviabornstein/Documents/einSwitch003/build/Debug-iphonesimulator/einSwitch003.app/einSwitch003
+lSLF07#2@124"GenerateDSYMFile build/Debug-iphonesimulator/einSwitch003.app.dSYM build/Debug-iphonesimulator/einSwitch003.app/einSwitch003355290905#355290905#0(0"0(0#0#103"/Users/oliviabornstein/Documents/einSwitch003/build/Debug-iphonesimulator/einSwitch003.app/einSwitch0038625773184#419"    cd /Users/oliviabornstein/Documents/einSwitch003    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/oliviabornstein/Documents/einSwitch003/build/Debug-iphonesimulator/einSwitch003.app/einSwitch003 -o /Users/oliviabornstein/Documents/einSwitch003/build/Debug-iphonesimulator/einSwitch003.app.dSYM0#
+
+CLd /Users/oliviabornstein/Documents/einSwitch003/build/Debug-iphonesimulator/einSwitch003.app/einSwitch003 normal i386
+s355290905.613321
+e355290905.658788
+r1
+xLd
+x/Users/oliviabornstein/Documents/einSwitch003/build/Debug-iphonesimulator/einSwitch003.app/einSwitch003
+xnormal
+xi386
+lSLF07#2@108"Link /Users/oliviabornstein/Documents/einSwitch003/build/Debug-iphonesimulator/einSwitch003.app/einSwitch003355290905#355290905#0(0"0(0#0#0"8630668448#960"    cd /Users/oliviabornstein/Documents/einSwitch003    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/Users/oliviabornstein/Documents/einSwitch003/build/Debug-iphonesimulator -F/Users/oliviabornstein/Documents/einSwitch003/build/Debug-iphonesimulator -filelist /Users/oliviabornstein/Documents/einSwitch003/build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/Objects-normal/i386/einSwitch003.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/oliviabornstein/Documents/einSwitch003/build/Debug-iphonesimulator/einSwitch003.app/einSwitch0030#
+
+CProcessInfoPlistFile /Users/oliviabornstein/Documents/einSwitch003/build/Debug-iphonesimulator/einSwitch003.app/Info.plist einSwitch003-Info.plist
+s354867878.288221
+e354867878.294449
+r1
+xProcessInfoPlistFile
+x/Users/oliviabornstein/Documents/einSwitch003/build/Debug-iphonesimulator/einSwitch003.app/Info.plist
+xeinSwitch003-Info.plist
+lSLF07#2@31"Process einSwitch003-Info.plist354867878#354867878#0(0"0(0#0#69"/Users/oliviabornstein/Documents/einSwitch003/einSwitch003-Info.plist8600392128#515"    cd /Users/oliviabornstein/Documents/einSwitch003    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility einSwitch003-Info.plist -genpkginfo /Users/oliviabornstein/Documents/einSwitch003/build/Debug-iphonesimulator/einSwitch003.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/oliviabornstein/Documents/einSwitch003/build/Debug-iphonesimulator/einSwitch003.app/Info.plist0#
+
+CProcessPCH /var/folders/Ls/LsjwyMeDFbKoXB1c+WxwHk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/einSwitch003_Prefix-fjdfnodrcpffxubxdvvmbpjlnwah/einSwitch003_Prefix.pch.gch einSwitch003_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s354867879.424145
+e354867880.278363
+r1
+xProcessPCH
+x/var/folders/Ls/LsjwyMeDFbKoXB1c+WxwHk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/einSwitch003_Prefix-fjdfnodrcpffxubxdvvmbpjlnwah/einSwitch003_Prefix.pch.gch
+xeinSwitch003_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile einSwitch003_Prefix.pch354867879#354867880#0(0"0(0#0#69"/Users/oliviabornstein/Documents/einSwitch003/einSwitch003_Prefix.pch8603607712#1971"    cd /Users/oliviabornstein/Documents/einSwitch003    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/oliviabornstein/Documents/einSwitch003/build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/einSwitch003-generated-files.hmap -I/Users/oliviabornstein/Documents/einSwitch003/build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/einSwitch003-own-target-headers.hmap -I/Users/oliviabornstein/Documents/einSwitch003/build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/einSwitch003-all-target-headers.hmap -iquote /Users/oliviabornstein/Documents/einSwitch003/build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/einSwitch003-project-headers.hmap -F/Users/oliviabornstein/Documents/einSwitch003/build/Debug-iphonesimulator -I/Users/oliviabornstein/Documents/einSwitch003/build/Debug-iphonesimulator/include -I/Users/oliviabornstein/Documents/einSwitch003/build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/DerivedSources/i386 -I/Users/oliviabornstein/Documents/einSwitch003/build/einSwitch003.build/Debug-iphonesimulator/einSwitch003.build/DerivedSources -c /Users/oliviabornstein/Documents/einSwitch003/einSwitch003_Prefix.pch -o /var/folders/Ls/LsjwyMeDFbKoXB1c+WxwHk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/einSwitch003_Prefix-fjdfnodrcpffxubxdvvmbpjlnwah/einSwitch003_Prefix.pch.gch0#
+
+CTouch /Users/oliviabornstein/Documents/einSwitch003/build/Debug-iphonesimulator/einSwitch003.app
+s355290905.688286
+e355290905.691637
+r1
+xTouch
+x/Users/oliviabornstein/Documents/einSwitch003/build/Debug-iphonesimulator/einSwitch003.app
+lSLF07#2@96"Touch /Users/oliviabornstein/Documents/einSwitch003/build/Debug-iphonesimulator/einSwitch003.app355290905#355290905#0(0"0(0#0#0"8666431072#297"    cd /Users/oliviabornstein/Documents/einSwitch003    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/oliviabornstein/Documents/einSwitch003/build/Debug-iphonesimulator/einSwitch003.app0#
+
